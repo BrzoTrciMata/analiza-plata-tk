@@ -1,0 +1,20 @@
+Faktor,Efekat (%),"Značajno (p < 0,05)",Tumačenje,Koeficijent (log),p
+sprema: Doktor nauka,161.6813,da,"Zaposleni sa spremom Doktor nauka: plata oko 162% veća nego sa spremom SSS, uz iste ostale faktore.",0.962,0.0
+sprema: KV,-11.0513,da,"Zaposleni sa spremom KV: plata oko 11% manja nego sa spremom SSS, uz iste ostale faktore.",-0.1171,0.0
+sprema: Magistar / II ciklus,57.511,da,"Zaposleni sa spremom Magistar / II ciklus: plata oko 58% veća nego sa spremom SSS, uz iste ostale faktore.",0.4543,0.0
+sprema: NK / osnovna škola,-12.1167,da,"Zaposleni sa spremom NK / osnovna škola: plata oko 12% manja nego sa spremom SSS, uz iste ostale faktore.",-0.1292,0.0
+sprema: PK / NSS,-34.6731,da,"Zaposleni sa spremom PK / NSS: plata oko 35% manja nego sa spremom SSS, uz iste ostale faktore.",-0.4258,0.0
+sprema: VKV,11.8526,da,"Zaposleni sa spremom VKV: plata oko 12% veća nego sa spremom SSS, uz iste ostale faktore.",0.112,0.0
+sprema: VSS,57.1514,da,"Zaposleni sa spremom VSS: plata oko 57% veća nego sa spremom SSS, uz iste ostale faktore.",0.452,0.0
+sprema: VŠS,45.323,da,"Zaposleni sa spremom VŠS: plata oko 45% veća nego sa spremom SSS, uz iste ostale faktore.",0.3738,0.0
+sektor: Javna preduzeća,20.5632,da,"Zaposleni u sektoru „Javna preduzeća“: plata oko 21% veća nego u sektoru „Osnovne škole“, uz iste ostale faktore.",0.187,0.0
+sektor: Kantonalni organi uprave,55.9067,da,"Zaposleni u sektoru „Kantonalni organi uprave“: plata oko 56% veća nego u sektoru „Osnovne škole“, uz iste ostale faktore.",0.4441,0.0
+sektor: Kultura i baština,29.6645,da,"Zaposleni u sektoru „Kultura i baština“: plata oko 30% veća nego u sektoru „Osnovne škole“, uz iste ostale faktore.",0.2598,0.0
+sektor: Ostale javne ustanove,32.8256,da,"Zaposleni u sektoru „Ostale javne ustanove“: plata oko 33% veća nego u sektoru „Osnovne škole“, uz iste ostale faktore.",0.2839,0.0
+sektor: Policija,44.1285,da,"Zaposleni u sektoru „Policija“: plata oko 44% veća nego u sektoru „Osnovne škole“, uz iste ostale faktore.",0.3655,0.0
+sektor: Socijalna zaštita i posebno obrazovanje,18.2989,da,"Zaposleni u sektoru „Socijalna zaštita i posebno obrazovanje“: plata oko 18% veća nego u sektoru „Osnovne škole“, uz iste ostale faktore.",0.168,0.0
+sektor: Srednje škole,1.0576,ne,"Zaposleni u sektoru „Srednje škole“: plata oko 1% veća nego u sektoru „Osnovne škole“, uz iste ostale faktore.",0.0105,0.2091
+sektor: Univerzitet,43.4538,da,"Zaposleni u sektoru „Univerzitet“: plata oko 43% veća nego u sektoru „Osnovne škole“, uz iste ostale faktore.",0.3608,0.0
+sektor: Zdravstvo,26.797,da,"Zaposleni u sektoru „Zdravstvo“: plata oko 27% veća nego u sektoru „Osnovne škole“, uz iste ostale faktore.",0.2374,0.0
+ugovor: Određeno,-7.4529,da,"Zaposleni na određeno: plata oko 7% manja nego na neodređeno, uz iste ostale faktore.",-0.0775,0.0
+godine_u_instituciji,0.288,da,"Svaka dodatna godina u instituciji: plata u prosjeku 0,29% veća.",0.0029,0.0

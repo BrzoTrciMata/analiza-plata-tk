@@ -1,0 +1,4 @@
+# Tema nije zadana ovdje, tako da u meniju (⋮ → Settings) ostaje izbor:
+# svijetla / tamna / prema postavkama sistema. Dashboard se sam prilagođava izabranoj temi.
+[browser]
+gatherUsageStats = false

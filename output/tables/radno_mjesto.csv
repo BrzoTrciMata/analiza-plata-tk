@@ -1,0 +1,366 @@
+radno_mjesto,Grupa radnog mjesta,N,Prosjek (KM),Medijan (KM),Q1 (25%),Q3 (75%),Std. devijacija,Udio (%),Razlika prosjek−medijan
+Nastavnik/ redovni profesor,Univerzitetski nastavnici,33,3820.34,3946.03,3946.03,3946.03,555.51,0.25,-125.69
+Nastavnik / redovni profesor,Univerzitetski nastavnici,122,3670.9,3946.03,3946.03,3946.03,830.7,0.93,-275.13
+Nastavnik / redovni profesor/ dekan,"Rukovodioci (direktor, šef, pomoćnik)",5,3946.03,3946.03,3946.03,3946.03,0.0,0.04,0.0
+Nastavnik redovni profesor,Univerzitetski nastavnici,7,3946.03,3946.03,3946.03,3946.03,0.0,0.05,0.0
+Nastavnik/ vanredni profesor,Univerzitetski nastavnici,121,3525.98,3638.41,3638.41,3638.41,538.61,0.92,-112.43
+Nastavnik vanredni profesor,Univerzitetski nastavnici,10,3669.17,3638.41,3638.41,3638.41,97.28,0.08,30.76
+Nastavnik/ docent,Univerzitetski nastavnici,27,3335.78,3336.09,3336.09,3336.09,147.17,0.21,-0.31
+Nastavnik docent,Univerzitetski nastavnici,21,3075.65,3336.09,3336.09,3336.09,675.08,0.16,-260.44
+Sekretar ministarstva,"Rukovodioci (direktor, šef, pomoćnik)",6,3121.54,3242.36,2897.51,3315.36,266.15,0.05,-120.83
+Doktor medicine - specijalista,Doktori medicine i stomatologije,5,3118.08,3118.08,3118.08,3118.08,0.0,0.04,0.0
+Odgovorni projektant hidroteh. građ,Inženjeri i tehničko osoblje,5,2491.76,2477.38,2477.38,2477.38,33.95,0.04,14.38
+Šef odsjeka,"Rukovodioci (direktor, šef, pomoćnik)",12,2364.83,2331.65,2312.22,2457.92,87.71,0.09,33.18
+Kantonalni tržišno - turističko - ugostiteljski inspektor,Inspektori,12,2316.23,2316.23,2316.23,2316.23,0.0,0.09,0.0
+Kantonalni inspektor rada za oblast radnih odnosa,Inspektori,10,2316.23,2316.23,2316.23,2316.23,0.0,0.08,0.0
+Kantonalni inspektor rada za oblast zaštite na radu,Inspektori,5,2316.23,2316.23,2316.23,2316.23,0.0,0.04,0.0
+Kantonalni veterinarski inspektor,Inspektori,8,2316.23,2316.23,2316.23,2316.23,0.0,0.06,0.0
+Doktor medicine-specijalista,Doktori medicine i stomatologije,215,2270.6,2253.93,2253.93,2253.93,64.79,1.63,16.67
+Magistar farmacije - specijalista,Doktori medicine i stomatologije,5,2253.93,2253.93,2253.93,2253.93,0.0,0.04,0.0
+Šef odjeljenja,"Rukovodioci (direktor, šef, pomoćnik)",107,2300.88,2253.93,2253.93,2331.65,184.04,0.81,46.95
+Vd načelnika klinike,"Rukovodioci (direktor, šef, pomoćnik)",15,2290.2,2253.93,2253.93,2331.65,40.13,0.11,36.27
+Sanitarni inžinjer,Inženjeri i tehničko osoblje,8,2191.34,2227.2,2208.0,2227.2,75.36,0.06,-35.86
+Diplomirani zdravstveni tehničar,"Medicinske sestre, tehničari i laboranti",8,2227.2,2227.2,2227.2,2227.2,0.0,0.06,0.0
+Stručni savjetnik za upravni postupak,Pravnici,9,2042.79,2144.15,1840.08,2144.15,152.04,0.07,-101.36
+Stručni savjetnik za ekonomsko finansijske poslove,"Ekonomisti, računovođe, finansije",5,2131.38,2144.15,2144.15,2208.5,105.53,0.04,-12.77
+"Stručni savjetnik za provođenje propisa o oružju, prometu eksplozivnih sredstava i primjeni propisa o slobodi pristupa informacijama",Stručni saradnici i savjetnici,8,2144.14,2144.14,2144.14,2144.14,0.0,0.06,0.0
+Saradnik/ viši asistent,Asistenti i saradnici na univerzitetu,16,2059.43,2063.19,2063.19,2063.19,15.03,0.12,-3.76
+Pomoćnik generalnog sekretara,Administrativni radnici i referenti,9,2041.95,2063.19,2063.19,2063.19,63.72,0.07,-21.24
+Saradnik viši asistent,Asistenti i saradnici na univerzitetu,20,2047.01,2063.19,2063.19,2063.19,72.35,0.15,-16.18
+Stručni saradnik,Stručni saradnici i savjetnici,6,1895.96,2011.0,1847.26,2011.0,195.44,0.05,-115.04
+Doktor medicine,Doktori medicine i stomatologije,19,2001.33,2001.33,2001.33,2001.33,0.0,0.14,0.0
+Magistar farmacije,"Medicinske sestre, tehničari i laboranti",6,2129.21,2001.33,2001.33,2001.33,313.25,0.05,127.88
+Doktor medicine na specijalizaciji,Doktori medicine i stomatologije,146,2122.21,2001.33,2001.33,2001.33,280.5,1.11,120.88
+"Doktor na specijalizaciji iz anestezilogije,reanimatologije i intenzivne medicine",Doktori medicine i stomatologije,7,2001.33,2001.33,2001.33,2001.33,0.0,0.05,0.0
+Doktor na specijalizaciji,Doktori medicine i stomatologije,13,2260.24,2001.33,2001.33,2768.64,404.98,0.1,258.91
+Doktor medicine na specijalizaciji iz onkologije i radioterapije,Doktori medicine i stomatologije,5,2001.33,2001.33,2001.33,2001.33,0.0,0.04,0.0
+Odsjek za transfuziju,Ostala radna mjesta,5,2071.44,1940.4,1360.8,2847.6,747.0,0.04,131.04
+Pravna služba,Pravnici,5,1637.58,1940.4,1234.8,1940.4,416.25,0.04,-302.82
+Interni revizor,"Ekonomisti, računovođe, finansije",11,2031.88,1936.0,1702.66,2195.1,395.85,0.08,95.88
+Direktor,"Rukovodioci (direktor, šef, pomoćnik)",12,1894.81,1883.5,1820.54,1941.09,104.21,0.09,11.32
+Viši stručni saradnik,Stručni saradnici i savjetnici,6,1845.72,1845.72,1845.72,1845.72,0.0,0.05,0.0
+Stručni savjetnik za ekonomsko - finansijske poslove,"Ekonomisti, računovođe, finansije",5,1939.04,1840.08,1840.08,2144.14,192.87,0.04,98.96
+Upravnik šumarije,"Rukovodioci (direktor, šef, pomoćnik)",9,1938.44,1837.65,1687.22,1837.65,433.31,0.07,100.79
+Direktor škole,"Rukovodioci (direktor, šef, pomoćnik)",5,1891.14,1820.54,1820.54,1929.77,108.05,0.04,70.6
+Defektolog audiorehabitator,"Pedagozi, psiholozi, defektolozi, soc. radnici",7,1790.51,1797.99,1797.99,1797.99,19.8,0.05,-7.48
+Defektolog nastavnik u razredu,Nastavnici predmetne nastave,8,1791.44,1797.99,1797.99,1797.99,18.52,0.06,-6.55
+Stručni saradnik za ekonomsko finansijske poslove,"Ekonomisti, računovođe, finansije",5,1811.56,1797.99,1745.61,1993.04,194.13,0.04,13.57
+Glumac ii kategorije,"Novinari, kultura i mediji",13,1793.96,1797.99,1797.99,1797.99,14.53,0.1,-4.03
+Profesor klavira,Nastavnici predmetne nastave,7,1615.52,1797.99,1797.99,1797.99,482.77,0.05,-182.47
+Nastavnik zdravstvene njege praktične nastave,Nastavnici predmetne nastave,20,1769.08,1797.9,1797.9,1797.9,80.61,0.15,-28.82
+Nastavnik stručno teorijske nastave medicinske grupe predmeta,Nastavnici predmetne nastave,10,1706.28,1771.76,1621.49,1797.9,111.96,0.08,-65.47
+Nastavnik stručno teorijske nastave saobraćajne grupe predmeta,Nastavnici predmetne nastave,11,1607.88,1746.0,1580.84,1912.5,487.15,0.08,-138.12
+Nastavnik stručno-teorijske nastave elektrotehničke grupe predmeta,Nastavnici predmetne nastave,14,1723.0,1745.61,1745.61,1745.61,63.46,0.11,-22.61
+"Nastavnik bosanskog, hrvatskog, srpskog jezika i književnosti",Nastavnici predmetne nastave,9,1643.79,1745.61,1745.61,1797.9,345.15,0.07,-101.82
+Pomoćnik direktora,"Rukovodioci (direktor, šef, pomoćnik)",17,1767.51,1745.61,1725.2,1956.75,522.57,0.13,21.9
+Nastavnik bhs,Nastavnici predmetne nastave,8,1523.88,1745.61,1431.93,1797.99,423.29,0.06,-221.73
+Nastavnik bhs jezika i književnosti,Nastavnici predmetne nastave,15,1511.11,1745.61,1221.91,1745.61,431.67,0.11,-234.5
+Nastavnik stručno-teorijske nastave elektroteh. grupe predmeta,Nastavnici predmetne nastave,6,1711.18,1745.61,1745.61,1745.61,84.35,0.05,-34.43
+Nastavnik klavira,Nastavnici predmetne nastave,26,1465.92,1745.61,1114.99,1745.61,358.89,0.2,-279.69
+Nastavnik hemije i kulture življenja,Nastavnici predmetne nastave,5,1311.01,1745.61,698.24,1797.99,648.4,0.04,-434.6
+Nastavnik gitare,Nastavnici predmetne nastave,8,1488.72,1745.61,1085.45,1745.61,354.99,0.06,-256.88
+Nastavnik stručno-teorijske nastave mašinske grupe predmeta,Nastavnici predmetne nastave,18,1665.95,1745.6,1745.6,1745.61,185.56,0.14,-79.65
+Nastavnik praktične nastave saobraćajne grupe predmeta,Nastavnici predmetne nastave,5,1637.1,1745.6,1745.6,1745.6,242.61,0.04,-108.5
+Viši laborant,"Medicinske sestre, tehničari i laboranti",15,1687.67,1739.65,1739.65,1739.65,107.6,0.11,-51.98
+Saradnik asistent,Asistenti i saradnici na univerzitetu,38,1756.68,1739.65,1739.65,1739.65,73.22,0.29,17.03
+Saradnik- asistent,Asistenti i saradnici na univerzitetu,6,1739.65,1739.65,1739.65,1739.65,0.0,0.05,0.0
+Saradnik/ asistent,Asistenti i saradnici na univerzitetu,15,1782.79,1739.65,1739.65,1739.65,113.84,0.11,43.14
+Vd šefa službe,"Rukovodioci (direktor, šef, pomoćnik)",5,1659.36,1729.31,1554.43,1729.31,95.79,0.04,-69.95
+Šef službe,"Rukovodioci (direktor, šef, pomoćnik)",15,1694.33,1729.31,1554.43,1729.31,177.36,0.11,-34.98
+Glavni knjigovođa,"Ekonomisti, računovođe, finansije",5,1655.55,1729.31,1653.0,1760.0,343.6,0.04,-73.76
+Stručni saradnik za pravne poslove,Pravnici,6,1782.38,1727.6,1694.0,1880.63,276.11,0.05,54.78
+Stručni saradnik za javne nabavke,"Ekonomisti, računovođe, finansije",5,1747.26,1694.0,1682.57,1708.66,293.01,0.04,53.26
+Stručni saradnik za upravni postupak,Pravnici,5,1742.19,1694.0,1694.0,1694.0,107.76,0.04,48.19
+Stručni saradnik odgajatelj,Nastavnici predmetne nastave,6,1682.57,1682.57,1682.57,1682.57,0.0,0.05,0.0
+"Nastavnik bosanskog, hrvatskog i srpskog jezika i književnosti",Nastavnici predmetne nastave,11,1674.83,1680.81,1539.06,1797.99,136.15,0.08,-5.98
+Nastavnik razredne nasteve,Nastavnici predmetne nastave,5,1563.86,1665.39,1511.09,1665.39,155.81,0.04,-101.53
+Producent,"Novinari, kultura i mediji",5,1653.0,1653.0,1653.0,1653.0,0.0,0.04,0.0
+Samostalni urednik (u redakciji),Stručni saradnici i savjetnici,7,1594.71,1653.0,1499.0,1653.0,122.84,0.05,-58.29
+Odjeljenje hirurgije,Ostala radna mjesta,14,1967.6,1650.6,1360.8,2520.0,667.52,0.11,317.0
+Mikrobiološki laboratorij,"Medicinske sestre, tehničari i laboranti",6,1801.8,1650.6,1360.8,1940.4,585.76,0.05,151.2
+Stručni saradnik za posredovanje u zapošljavanju- savjetodavac u birou za zapošljavanje tuzla,Stručni saradnici i savjetnici,5,1649.0,1649.0,1649.0,1649.0,0.0,0.04,0.0
+Stručni saradnik za podsticaje u zapošljavanju,Stručni saradnici i savjetnici,10,1673.3,1649.0,1649.0,1649.0,76.67,0.08,24.3
+Stručni saradnik za utvrđivanje prava nezaposlenim osobama i radne dozvole,Stručni saradnici i savjetnici,5,1649.0,1649.0,1649.0,1649.0,0.0,0.04,0.0
+Odgajatelj u produženom boravku,Nastavnici predmetne nastave,6,1627.97,1641.14,1537.54,1665.39,108.77,0.05,-13.16
+Nastavnik saobraćajne grupe predmeta,Nastavnici predmetne nastave,7,1591.83,1631.4,1539.06,1631.4,49.36,0.05,-39.57
+Sekretar,Administrativni radnici i referenti,103,1737.17,1631.4,1539.06,1797.98,430.15,0.78,105.77
+Sekretar škole,Administrativni radnici i referenti,59,1647.94,1631.4,1539.06,1745.61,136.81,0.45,16.54
+Nastavnik harmonike,Nastavnici predmetne nastave,13,1620.36,1631.4,1539.06,1745.61,276.39,0.1,-11.04
+Pedagog,"Pedagozi, psiholozi, defektolozi, soc. radnici",108,1553.88,1623.6,1539.06,1745.61,311.67,0.82,-69.72
+Logoped,"Pedagozi, psiholozi, defektolozi, soc. radnici",5,1763.75,1618.69,1539.06,2060.96,273.26,0.04,145.06
+Nastavnik rezredne nastave,Nastavnici predmetne nastave,5,1594.25,1616.88,1616.88,1616.88,134.64,0.04,-22.63
+Nastavnik razredne nasatve,Nastavnici predmetne nastave,6,1629.21,1616.88,1558.52,1653.26,96.28,0.05,12.33
+Nastavnik francuskog jezika,Nastavnici predmetne nastave,5,1304.5,1616.24,742.0,1631.4,521.64,0.04,-311.74
+Urednik,"Novinari, kultura i mediji",8,1614.94,1609.5,1609.5,1609.5,15.38,0.06,5.44
+Nastavnik elektrotehničke grupe predmeta,Nastavnici predmetne nastave,24,1607.39,1601.22,1539.06,1745.61,160.64,0.18,6.16
+Saradnik za ekonomsko-finansijske poslove,"Ekonomisti, računovođe, finansije",16,1495.6,1585.23,1385.85,1797.96,338.5,0.12,-89.63
+Nastavnik razedne nastave,Nastavnici predmetne nastave,6,1589.39,1584.82,1518.08,1716.86,176.19,0.05,4.56
+Zdravstveni tehničar,"Medicinske sestre, tehničari i laboranti",11,1559.04,1559.04,1559.04,1559.04,0.0,0.08,0.0
+Nastavnik solfeđa,Nastavnici predmetne nastave,6,1397.72,1555.03,1083.01,1701.96,401.37,0.05,-157.31
+Inžinjer medicinske radiologije,"Medicinske sestre, tehničari i laboranti",57,1564.89,1554.43,1554.43,1554.43,78.94,0.43,10.46
+Defektolog/tiflolog u kabinetu za liječenje ambliopije i strabizma,"Pedagozi, psiholozi, defektolozi, soc. radnici",5,1484.48,1554.43,1554.43,1554.43,156.41,0.04,-69.95
+Klinički psiholog,"Pedagozi, psiholozi, defektolozi, soc. radnici",8,1628.93,1554.43,1554.43,1554.43,210.71,0.06,74.5
+Defektolog-logoped,"Pedagozi, psiholozi, defektolozi, soc. radnici",9,1539.1,1554.43,1554.43,1554.43,45.98,0.07,-15.33
+Medicinski biolog,"Medicinske sestre, tehničari i laboranti",7,1639.57,1554.43,1554.43,1554.43,225.26,0.05,85.14
+Fizioterapeut,"Medicinske sestre, tehničari i laboranti",5,1379.23,1554.43,1116.84,1554.43,239.91,0.04,-175.2
+Medicinska sestra-tehničar za poslove poboljšanja kvaliteta i edukaciju,"Medicinske sestre, tehničari i laboranti",22,1554.43,1554.43,1554.43,1554.43,0.0,0.17,0.0
+Socijalni radnik,"Pedagozi, psiholozi, defektolozi, soc. radnici",11,1588.2,1554.43,1546.74,1575.0,213.72,0.08,33.77
+Medicinska sestra-tehničar u prijemnoj ambulanti,"Medicinske sestre, tehničari i laboranti",11,1502.68,1554.43,1554.43,1554.43,140.92,0.08,-51.75
+Medicinski tehnolog/biolog,"Medicinske sestre, tehničari i laboranti",6,1554.43,1554.43,1554.43,1554.43,0.0,0.05,0.0
+Glavna medicinska sestra-tehničar,"Medicinske sestre, tehničari i laboranti",24,1604.09,1554.43,1554.43,1554.43,168.26,0.18,49.66
+Medicinska sestra - tehničar u prijemnoj ambulanti,"Medicinske sestre, tehničari i laboranti",7,1554.43,1554.43,1554.43,1554.43,0.0,0.05,0.0
+Odgovorni laboratorijski tehničar,"Medicinske sestre, tehničari i laboranti",17,1662.66,1554.43,1554.43,1554.43,292.57,0.13,108.23
+Odgovorna medicinska sestra-tehničar-instrumentar,"Medicinske sestre, tehničari i laboranti",8,1611.13,1554.43,1486.43,1703.42,373.42,0.06,56.7
+Odgovorna medicinska sestra-tehničar,"Medicinske sestre, tehničari i laboranti",127,1545.76,1554.43,1554.43,1554.43,109.32,0.97,-8.67
+Referent za radne odnose,Administrativni radnici i referenti,5,1589.41,1554.43,1554.43,1554.43,78.21,0.04,34.98
+Smjenski inžinjer za proizvodnju,Inženjeri i tehničko osoblje,7,1409.9,1541.64,1311.09,1541.64,224.99,0.05,-131.74
+Projektant u šumarstvu,Šumarstvo i rudarstvo (radnici),13,1586.4,1541.14,1541.14,1678.54,90.77,0.1,45.26
+Profesor mašinske grupe predmeta,Nastavnici predmetne nastave,8,1513.18,1539.06,1538.0,1539.06,198.17,0.06,-25.88
+Profesor matematike,Nastavnici predmetne nastave,37,1385.34,1539.06,1200.0,1631.4,387.4,0.28,-153.72
+Nastavnik razredne nastave,Nastavnici razredne nastave,950,1566.4,1539.06,1425.57,1665.39,199.18,7.22,27.34
+Profesor informatike,Nastavnici predmetne nastave,14,1454.25,1539.06,1539.0,1646.54,381.76,0.11,-84.81
+Nastavnik praktične nastave med.grupa predmeta,Nastavnici predmetne nastave,6,1532.06,1539.06,1539.06,1539.06,33.52,0.05,-7.0
+Nastavnik mašinske grupe predmeta,Nastavnici predmetne nastave,12,1534.75,1539.06,1539.06,1631.4,220.61,0.09,-4.31
+Profesor ekonomske grupe predmeta,Nastavnici predmetne nastave,42,1449.01,1539.06,1539.06,1539.06,309.49,0.32,-90.05
+Pedagog škole,"Pedagozi, psiholozi, defektolozi, soc. radnici",39,1606.31,1539.06,1539.06,1745.61,226.55,0.3,67.25
+Nastavnik matematike,Nastavnici predmetne nastave,206,1407.7,1539.06,1127.53,1745.61,391.71,1.57,-131.36
+Profesor bosanskog jezika i književnosti,Nastavnici predmetne nastave,37,1367.94,1539.06,1026.09,1644.0,425.46,0.28,-171.12
+Nastavnik stručno-teorijske nastave elektrotehnička grupa predmeta,Nastavnici predmetne nastave,5,1539.06,1539.06,1539.06,1539.06,0.0,0.04,0.0
+Nastavnik stručno-teorijske nastave likovne grupe predmeta,Nastavnici predmetne nastave,9,1567.83,1539.06,1539.06,1539.06,86.31,0.07,28.77
+Nastavnik stručno-teorijske nastave mašinska grupa predmeta,Nastavnici predmetne nastave,6,1518.63,1539.06,1539.06,1539.06,50.04,0.05,-20.43
+Nastavnik stručno-toerijske i praktične nastave poljoprivredna grupa predmeta,Nastavnici predmetne nastave,6,1539.06,1539.06,1539.06,1539.06,0.0,0.05,0.0
+Profesor engleskog jezika,Nastavnici predmetne nastave,33,1401.33,1539.06,1155.17,1623.71,360.6,0.25,-137.73
+Profesor elektrotehničke grupe predmeta,Nastavnici predmetne nastave,9,1385.75,1539.06,1077.34,1552.68,289.9,0.07,-153.31
+Nastavnik matematike i fizike,Nastavnici predmetne nastave,25,1584.76,1539.06,1539.0,1665.39,202.44,0.19,45.7
+Defektolog škole,"Pedagozi, psiholozi, defektolozi, soc. radnici",6,1441.45,1539.06,1539.06,1608.02,332.24,0.05,-97.61
+Nastavnik engleskog jezika i književnosti,Nastavnici predmetne nastave,69,1350.67,1539.06,946.3,1631.4,412.49,0.52,-188.39
+Nastavnik historije i geografije,Nastavnici predmetne nastave,53,1515.51,1539.06,1416.48,1745.61,352.62,0.4,-23.55
+Nastavnik informatike,Nastavnici predmetne nastave,75,1412.85,1539.06,1281.86,1631.4,393.47,0.57,-126.21
+Nastavnik bosanskog jezika i književnosti,Nastavnici predmetne nastave,113,1449.96,1539.06,1312.0,1745.61,378.55,0.86,-89.1
+Nastavnik građevinske grupe predmeta,Nastavnici predmetne nastave,8,1546.9,1539.06,1539.06,1586.14,76.8,0.06,7.84
+Nastavnik demokratije i ljudskih prava,Nastavnici predmetne nastave,9,1317.14,1539.06,856.19,1745.6,458.55,0.07,-221.92
+Nastavnik ekonomske grupe predmeta,Nastavnici predmetne nastave,21,1430.99,1539.06,1416.48,1631.4,366.58,0.16,-108.07
+Nastavnik engleskog jezika,Nastavnici predmetne nastave,221,1432.03,1539.06,1194.0,1745.61,393.02,1.68,-107.03
+Nastavnik,Nastavnici predmetne nastave,159,1343.44,1539.06,1203.1,1539.06,316.88,1.21,-195.62
+Razredna nastava,Nastavnici razredne nastave,11,1546.63,1539.06,1425.56,1539.06,220.73,0.08,7.57
+Profesor tjelesnog i zdravstvenog odgoja,Nastavnici predmetne nastave,30,1381.14,1539.03,1106.24,1539.06,358.4,0.23,-157.89
+Profesor engleskog jezika i književnosti,Nastavnici predmetne nastave,17,1412.11,1539.0,1539.0,1631.4,412.48,0.13,-126.89
+Profesor hemije,Nastavnici predmetne nastave,19,1366.17,1539.0,1089.4,1589.08,319.32,0.14,-172.83
+Profesor razredne nastave,Nastavnici razredne nastave,15,1448.1,1539.0,1426.0,1585.0,225.83,0.11,-90.9
+Profesor historije,Nastavnici predmetne nastave,18,1355.85,1539.0,1041.27,1611.05,404.32,0.14,-183.15
+Profesor filozofije i sociologije,Nastavnici predmetne nastave,5,1255.9,1539.0,1080.01,1539.0,425.68,0.04,-283.1
+Profesor biologije,"Medicinske sestre, tehničari i laboranti",19,1294.43,1539.0,911.0,1563.7,419.16,0.14,-244.57
+Profesor njemačkog jezika i književnosti,Nastavnici predmetne nastave,8,1445.37,1539.0,1414.46,1590.65,318.05,0.06,-93.63
+Nastavnik predmetne nastave,Nastavnici predmetne nastave,55,1508.57,1539.0,1511.0,1539.0,84.41,0.42,-30.43
+Profesor historije i geografije,Nastavnici predmetne nastave,5,1538.25,1539.0,1539.0,1539.0,1.7,0.04,-0.75
+Nastavnik informatike i tehničkog odgoja,Nastavnici predmetne nastave,5,1351.74,1539.0,1249.04,1539.06,412.02,0.04,-187.26
+Defektolog,"Pedagozi, psiholozi, defektolozi, soc. radnici",79,1389.34,1539.0,1122.98,1539.06,339.39,0.6,-149.66
+Profesor bosanskog jezika,Nastavnici predmetne nastave,9,1329.06,1539.0,969.0,1550.0,390.28,0.07,-209.94
+Profesor fizike,Nastavnici predmetne nastave,23,1273.01,1539.0,851.58,1615.7,452.9,0.17,-265.99
+Nastavnik instruktivne nastave stručno teorijske nastave medicinske grupe predmeta,Nastavnici predmetne nastave,8,1532.79,1536.39,1385.15,1618.11,152.89,0.06,-3.6
+Referent za javne nabavke,"Ekonomisti, računovođe, finansije",6,1512.76,1512.76,1471.09,1554.43,45.65,0.05,0.0
+Profesor praktične nastave mašinske grupe predmeta,Nastavnici predmetne nastave,5,1509.2,1500.97,1361.9,1661.64,229.14,0.04,8.23
+Profesor stručno-teorijske nastave mašinske grupe predmeta,Nastavnici predmetne nastave,5,1445.52,1489.12,1366.47,1539.06,120.62,0.04,-43.6
+Nastavnik praktične nastave,Nastavnici predmetne nastave,7,1565.61,1488.14,1395.48,1671.58,251.06,0.05,77.47
+Nastavnik praktične nastave medicinska grupa predmeta,Nastavnici predmetne nastave,12,1228.51,1482.31,906.49,1539.06,386.94,0.09,-253.8
+Viši referent za studentska pitanja,Administrativni radnici i referenti,10,1441.1,1479.76,1479.76,1479.76,86.12,0.08,-38.66
+Novinar,"Novinari, kultura i mediji",16,1488.16,1479.0,1479.0,1479.0,70.33,0.12,9.16
+Odjeljenje neurologije,Ostala radna mjesta,11,1905.27,1478.4,1360.8,2520.0,647.88,0.08,426.87
+Asistent,Asistenti i saradnici na univerzitetu,6,1350.21,1468.32,1425.56,1532.07,409.27,0.05,-118.12
+Nastavnik bosanskog jezika,Nastavnici predmetne nastave,49,1363.28,1468.28,972.07,1631.4,386.2,0.37,-105.0
+Nastavnik zubotehničke grupe predmeta (instruktivna nastava),Nastavnici predmetne nastave,5,1422.42,1468.0,1385.15,1571.05,210.48,0.04,-45.58
+Nastavnik tjelesnog odgoja,Nastavnici predmetne nastave,24,1374.51,1465.28,1175.53,1664.45,400.67,0.18,-90.78
+Nastavnik bhs jezika,Nastavnici predmetne nastave,8,1371.5,1462.1,1260.34,1539.06,323.54,0.06,-90.61
+Predmetna nastava,Nastavnici predmetne nastave,9,1370.75,1458.25,1295.88,1539.06,224.69,0.07,-87.5
+Viši referent za administrativno-tehničke poslove i poslove arhive,"Bibliotekari, arhivisti, muzejski radnici",5,1437.42,1454.38,1411.99,1454.38,23.22,0.04,-16.96
+Nastavnik informatike i tehničke kulture,Nastavnici predmetne nastave,6,1331.57,1441.7,1309.38,1524.16,343.39,0.05,-110.14
+Nastavnik tehničkg odgoja i informatike,Nastavnici predmetne nastave,7,1526.9,1426.0,1407.19,1784.95,317.6,0.05,100.9
+Nastavnik tehničkog odgoja i informatike,Nastavnici predmetne nastave,18,1347.23,1425.56,961.58,1653.26,364.06,0.14,-78.34
+Profesor,Nastavnici predmetne nastave,79,1383.31,1416.48,1416.48,1416.48,283.11,0.6,-33.17
+Viši referent za administrativne poslove za rad na ispitnom mjestu,Administrativni radnici i referenti,6,1412.09,1412.09,1412.09,1412.09,0.0,0.05,0.0
+Viši referent za prijem pošte,Administrativni radnici i referenti,9,1397.91,1412.0,1412.0,1412.0,42.27,0.07,-14.09
+Viši referent-vozač,Administrativni radnici i referenti,5,1380.45,1412.0,1412.0,1412.09,96.06,0.04,-31.55
+Viši referent za evidencije u policijskim stanicama,Administrativni radnici i referenti,8,1411.99,1411.99,1411.99,1411.99,0.0,0.06,0.0
+Vr vodeći operater na sistemu kriptozaštite,Administrativni radnici i referenti,5,1411.99,1411.99,1411.99,1411.99,0.0,0.04,0.0
+Viši referent za kaznene i kriminalističke evidencije,Administrativni radnici i referenti,14,1411.99,1411.99,1411.99,1411.99,0.0,0.11,0.0
+Viši referent za administrativno tehničke poslove,Administrativni radnici i referenti,15,1411.99,1411.99,1411.99,1411.99,0.0,0.11,0.0
+Viši referent za ekonomsko-finansijske poslove,"Ekonomisti, računovođe, finansije",5,1380.44,1411.99,1411.99,1412.09,96.06,0.04,-31.55
+Viši referent tehnički sekretar,Administrativni radnici i referenti,11,1415.84,1411.99,1411.99,1411.99,12.78,0.08,3.85
+Viši referent operater na sistemu kriptozaštite,Administrativni radnici i referenti,56,1413.76,1411.99,1411.99,1411.99,13.24,0.43,1.77
+Viši referent za administrativne poslove,Administrativni radnici i referenti,9,1412.02,1411.99,1411.99,1412.09,0.05,0.07,0.03
+Viši referent za poslove obračuna plaća,"Ekonomisti, računovođe, finansije",8,1361.93,1411.99,1361.93,1411.99,92.69,0.06,-50.06
+Viši referent - tehnički sekretar,Administrativni radnici i referenti,8,1377.92,1411.99,1362.12,1454.38,104.19,0.06,-34.07
+Viši referent za administrativno - tehničke poslove,Administrativni radnici i referenti,14,1349.37,1411.99,1411.99,1411.99,139.28,0.11,-62.62
+Viši referent za kontrolu i unos podataka u glavnu i pomoćnu knjigu,Administrativni radnici i referenti,7,1411.99,1411.99,1411.99,1411.99,0.0,0.05,0.0
+Nastavnik biologije i hemije,"Medicinske sestre, tehničari i laboranti",32,1325.4,1393.49,1312.0,1539.06,335.21,0.24,-68.09
+Prof. ekonomske grupe predmeta,Nastavnici predmetne nastave,7,1352.29,1392.64,1069.75,1697.96,471.77,0.05,-40.35
+Nastavnik tjelesnog i zdravstvenog odgoja,Nastavnici predmetne nastave,95,1289.13,1390.78,950.76,1539.06,402.1,0.72,-101.65
+Nastavnik elektrotehničke grupe predmeta (instruktivna nastava),Nastavnici predmetne nastave,5,1330.69,1385.1,1338.0,1385.15,149.18,0.04,-54.41
+Nastavnik klavira-instruktivna nastava,Nastavnici predmetne nastave,7,1276.8,1378.99,1378.99,1378.99,326.29,0.05,-102.19
+Nastavnik tehničkog odgoja,Nastavnici predmetne nastave,30,1230.85,1368.81,755.52,1527.36,472.54,0.23,-137.96
+Nastavnik zubotehničke grupe predmeta,Nastavnici predmetne nastave,6,1271.66,1367.94,1001.32,1517.95,297.01,0.05,-96.27
+Centar za dijalizu,"Medicinske sestre, tehničari i laboranti",13,1564.34,1360.8,1360.8,1360.8,441.95,0.1,203.54
+Biohemijsko hematološki laboratorij,"Medicinske sestre, tehničari i laboranti",6,1554.0,1360.8,1360.8,1795.5,299.3,0.05,193.2
+Odsjek porodiljstva i neonatologije,Ostala radna mjesta,6,1360.8,1360.8,1360.8,1360.8,0.0,0.05,0.0
+Odsjek ginekologije,Ostala radna mjesta,7,1360.8,1360.8,1360.8,1360.8,0.0,0.05,0.0
+Odjeljenje interne medicine,Ostala radna mjesta,13,1979.17,1360.8,1360.8,2520.0,707.22,0.1,618.37
+Odjeljenje pedijatrije,Ostala radna mjesta,9,1719.2,1360.8,1360.8,1940.4,584.62,0.07,358.4
+Referent portir recepcionar,Administrativni radnici i referenti,6,1359.7,1359.7,1359.7,1359.7,0.0,0.05,0.0
+Referent- portir- recepcionar,Administrativni radnici i referenti,6,1359.7,1359.7,1359.7,1359.7,0.0,0.05,0.0
+Montažer,"Novinari, kultura i mediji",5,1348.5,1348.5,1348.5,1348.5,0.0,0.04,0.0
+Kamerman snimatelj,"Novinari, kultura i mediji",5,1348.5,1348.5,1348.5,1348.5,0.0,0.04,0.0
+Smjenovođa,"Rukovodioci (direktor, šef, pomoćnik)",6,1254.18,1337.22,1150.38,1337.22,128.65,0.05,-83.04
+Nastavnik tizo,Nastavnici predmetne nastave,6,1310.7,1324.02,1100.7,1524.69,437.94,0.05,-13.32
+Nastavnik islamske vjeronauke,Nastavnici predmetne nastave,165,1257.91,1323.0,893.88,1631.0,409.6,1.25,-65.09
+Poslovođa za uzgoj i zaštitu šuma,"Rukovodioci (direktor, šef, pomoćnik)",5,1291.12,1312.61,1312.61,1312.61,48.05,0.04,-21.49
+Saradnik za ekonomsko finansijske poslove,"Ekonomisti, računovođe, finansije",50,1272.3,1312.06,872.8,1627.8,418.15,0.38,-39.76
+Nastavnik praktične nastave elektrotehničke grupe predmeta,Nastavnici predmetne nastave,7,1430.76,1312.06,1257.58,1541.8,301.24,0.05,118.7
+Nastavnik tehničke kulture,Nastavnici predmetne nastave,38,1192.06,1312.06,915.38,1472.5,329.82,0.29,-120.0
+Nastavnik tehičkog odgoja,Nastavnici predmetne nastave,5,1202.92,1312.0,890.63,1532.79,490.1,0.04,-109.08
+Viši referent - vozač,Administrativni radnici i referenti,10,1316.08,1311.73,1211.76,1412.0,110.69,0.08,4.35
+Referent za studentska pitanja,Administrativni radnici i referenti,13,1304.74,1304.74,1304.74,1304.74,0.0,0.1,0.0
+Laborant,"Medicinske sestre, tehničari i laboranti",11,1297.7,1304.74,1304.74,1304.74,15.67,0.08,-7.04
+Nastavnik njemačkog jezika,Nastavnici predmetne nastave,94,1213.12,1295.66,797.52,1539.06,434.95,0.71,-82.53
+Medicinska sestra - tehničar,"Medicinske sestre, tehničari i laboranti",18,1333.88,1273.3,1273.3,1505.28,166.28,0.14,60.58
+Tehnički sekretar organizacione jedinice,Administrativni radnici i referenti,11,1228.97,1241.09,1241.09,1241.09,40.19,0.08,-12.12
+Ekonomsko finansijska služba,"Ekonomisti, računovođe, finansije",6,1352.4,1234.8,1234.8,1234.8,288.06,0.05,117.6
+Nastavnik tjelesnog odgoja i sporta,Nastavnici predmetne nastave,8,1215.03,1223.57,845.61,1659.95,497.03,0.06,-8.54
+Viši referent u kantonalnom operativnom centru,Administrativni radnici i referenti,5,1212.0,1212.0,1212.0,1212.0,0.0,0.04,0.0
+Viši referent za administrativno-tehničke poslove,Administrativni radnici i referenti,5,1300.33,1211.76,1211.76,1411.99,122.2,0.04,88.57
+Viši referent za provođenje propisa o bezbjednosti saobraćaja na putevima odsjek za administracijutuzla,Administrativni radnici i referenti,8,1211.76,1211.76,1211.76,1211.76,0.0,0.06,0.0
+"Viši referent za provođenje propisa o prebivalištu i boravištu ,ličnoj karti i jedinstvenom matičnom broju građana odsjek za administraciju tuzla",Administrativni radnici i referenti,6,1220.58,1211.76,1211.76,1211.76,21.59,0.05,8.82
+Nepoznato,Ostala radna mjesta,9,1221.92,1206.09,832.69,1505.28,438.52,0.07,15.83
+Nastavnik praktične nastave mašinska grupa predmeta,Nastavnici predmetne nastave,7,1235.32,1203.1,1195.55,1425.56,295.09,0.05,32.22
+Nastavnik praktične nastave mašinske grupe predmeta,Nastavnici predmetne nastave,6,1233.47,1203.1,1203.1,1450.37,417.97,0.05,30.37
+Nastavnik praktične nastave za zanimanje frizer,Nastavnici predmetne nastave,9,1106.01,1203.1,903.32,1203.1,237.58,0.07,-97.09
+Arhivar,"Bibliotekari, arhivisti, muzejski radnici",6,1242.52,1173.86,1101.66,1421.35,230.91,0.05,68.65
+Bibliotekar,"Bibliotekari, arhivisti, muzejski radnici",113,1176.34,1172.48,760.54,1539.06,433.35,0.86,3.86
+Medicinska sestra,"Medicinske sestre, tehničari i laboranti",7,1099.99,1116.0,1071.02,1116.0,56.27,0.05,-16.01
+Pomoćni radnik-higijeničar,"Higijeničari, spremači, praonice",7,1107.78,1107.78,1107.78,1107.78,0.0,0.05,0.0
+Čuvar objekta,"Čuvari, portiri, nadzornici",11,963.47,1107.78,788.83,1107.78,165.82,0.08,-144.31
+Kurir,Administrativni radnici i referenti,8,997.9,1107.78,947.41,1107.78,180.7,0.06,-109.88
+Vozač kamiona,Vozači,5,1012.34,1107.78,869.18,1107.78,130.69,0.04,-95.44
+Portir,"Čuvari, portiri, nadzornici",43,1102.98,1107.78,1107.78,1107.78,37.56,0.33,-4.8
+Pomoćni kuhar,Kuhari i ishrana,6,1063.36,1107.78,1107.78,1107.78,108.8,0.05,-44.42
+Smjenski tehničar proizvodnje slane vode,"Medicinske sestre, tehničari i laboranti",5,1106.64,1106.64,1106.64,1106.64,0.0,0.04,0.0
+Tehničar za transport slane i tehn. vode i održ. cjevovoda,"Medicinske sestre, tehničari i laboranti",5,1106.59,1106.64,1106.64,1106.64,0.11,0.04,-0.05
+Razmjerač drvnih sortimenata,Šumarstvo i rudarstvo (radnici),10,1095.9,1105.77,1105.77,1107.28,48.93,0.08,-9.87
+Otpremač drvnih sortimenata,Šumarstvo i rudarstvo (radnici),7,1072.83,1105.77,1105.77,1107.78,89.81,0.05,-32.94
+Saradnik za ekonomsko – finansijske poslove,"Ekonomisti, računovođe, finansije",16,1206.17,1101.86,887.9,1557.45,411.0,0.12,104.31
+Referent za privremenu spriječenost za rad,Administrativni radnici i referenti,8,1100.0,1100.0,1100.0,1100.0,0.0,0.06,0.0
+Referent zdravstvenog osiguranja živinice,Administrativni radnici i referenti,5,1100.0,1100.0,1100.0,1100.0,0.0,0.04,0.0
+Referent zdravstvenog osiguranja,Administrativni radnici i referenti,19,1100.0,1100.0,1100.0,1100.0,0.0,0.14,0.0
+Referent zdravstvenog osiguranja tuzla,Administrativni radnici i referenti,7,1100.0,1100.0,1100.0,1100.0,0.0,0.05,0.0
+Nastavnik njemačkog jezika i književnosti,Nastavnici predmetne nastave,22,1134.16,1097.21,765.97,1539.06,440.3,0.17,36.95
+Medicinska sestra-tehničar u specijalističkoj ambulanti i kabinetu,Doktori medicine i stomatologije,24,1130.96,1088.1,1088.1,1088.1,121.9,0.18,42.86
+Sanitarni tehničar,"Medicinske sestre, tehničari i laboranti",7,1088.1,1088.1,1088.1,1088.1,0.0,0.05,0.0
+Medicinska sestra-tehničar,"Medicinske sestre, tehničari i laboranti",609,1129.44,1088.1,1088.1,1088.1,143.01,4.63,41.34
+Medicinska sestra- tehničar,"Medicinske sestre, tehničari i laboranti",6,1196.69,1088.1,1088.1,1227.0,190.27,0.05,108.59
+Medicinska sestra u ambulanti i kabinetu,"Medicinske sestre, tehničari i laboranti",19,1110.06,1088.1,1088.1,1088.1,95.71,0.14,21.96
+Rukovaoc kotlovskih postrojenja visokog pritiska,Ostala radna mjesta,5,1064.78,1088.1,1088.1,1088.1,52.14,0.04,-23.32
+Medicinska sestra akušerka,"Medicinske sestre, tehničari i laboranti",24,1107.53,1088.1,1088.1,1088.1,95.19,0.18,19.43
+Medicinska sestra - tehničar u specijalističkoj ambulanti i kabinetu,Doktori medicine i stomatologije,16,1088.1,1088.1,1088.1,1088.1,0.0,0.12,0.0
+Medicinska sestra - tehničar u specijalističkoj ambulanti,Doktori medicine i stomatologije,10,1107.53,1088.1,1088.1,1088.1,61.45,0.08,19.43
+Medicinska sestra-tehničar-gipser,"Medicinske sestre, tehničari i laboranti",5,1088.1,1088.1,1088.1,1088.1,0.0,0.04,0.0
+Farmaceutski tehničar,"Medicinske sestre, tehničari i laboranti",25,1123.62,1088.1,1088.1,1088.1,123.2,0.19,35.52
+Medicinska sestra-tehničar-domaćica,"Medicinske sestre, tehničari i laboranti",8,1088.1,1088.1,1088.1,1088.1,0.0,0.06,0.0
+Fizioterapeutski tehničar,"Medicinske sestre, tehničari i laboranti",31,1134.48,1088.1,1088.1,1088.1,106.39,0.24,46.38
+Medicinska sestra-tehničar-instrumentar,"Medicinske sestre, tehničari i laboranti",77,1117.74,1088.1,1088.1,1088.1,113.34,0.59,29.64
+Medicinska sestra-tehničar-respiratorni,"Medicinske sestre, tehničari i laboranti",11,1354.25,1088.1,1088.1,1554.43,349.16,0.08,266.15
+Laboratorijski tehničar,"Medicinske sestre, tehničari i laboranti",73,1226.05,1088.1,1088.1,1554.43,252.26,0.55,137.95
+Medicinska sestra-tehničar-anestetičar,"Medicinske sestre, tehničari i laboranti",31,1148.27,1088.1,1088.1,1088.1,158.91,0.24,60.17
+Profesor geografije,Nastavnici predmetne nastave,6,1202.85,1087.08,925.06,1582.29,472.58,0.05,115.77
+Nastavnik historije,Nastavnici predmetne nastave,65,1196.56,1086.78,829.17,1631.4,448.11,0.49,109.78
+Transportni radnik u zimskoj službi,Pomoćni i fizički radnici,7,1077.78,1077.78,1077.78,1077.78,0.0,0.05,0.0
+Vatrogasac vozač,Vozači,5,1077.78,1077.78,1077.78,1077.78,0.0,0.04,0.0
+Vatrogasac,Inženjeri i tehničko osoblje,8,1077.78,1077.78,1077.78,1077.78,0.0,0.06,0.0
+Referent za prihvat i otpremu putnika,Administrativni radnici i referenti,6,1077.78,1077.78,1077.78,1077.78,0.0,0.05,0.0
+Transportni radnik,Pomoćni i fizički radnici,15,1079.78,1077.78,1077.78,1077.78,7.74,0.11,2.0
+Referent za registraciju putnika i prtljaga,Administrativni radnici i referenti,15,1077.78,1077.78,1077.78,1077.78,0.0,0.11,0.0
+Kd kontrolor,Inženjeri i tehničko osoblje,8,1081.53,1077.78,1077.78,1077.78,10.6,0.06,3.75
+Rukovalac agregatima,"Domari, ložači i održavanje",13,1077.78,1077.78,1077.78,1077.78,0.0,0.1,0.0
+Domar/ložač,"Domari, ložači i održavanje",9,1063.03,1055.45,1025.0,1185.6,114.52,0.07,7.58
+Nastavnik biologije,"Medicinske sestre, tehničari i laboranti",71,1131.9,1049.65,777.52,1539.06,418.15,0.54,82.25
+Vozač,Vozači,21,1025.38,1048.32,869.18,1107.78,181.89,0.16,-22.94
+Nastavnik hemije,Nastavnici predmetne nastave,53,1158.89,1047.37,744.07,1539.06,461.66,0.4,111.52
+Lugar-čuvar šuma,"Čuvari, portiri, nadzornici",71,1042.33,1042.13,956.82,1107.78,69.26,0.54,0.2
+Lugar – čuvar šuma,"Čuvari, portiri, nadzornici",7,1070.27,1042.13,1042.13,1107.78,35.09,0.05,28.14
+Domar škole,"Domari, ložači i održavanje",6,1020.58,1039.83,933.64,1167.4,259.62,0.05,-19.25
+Nastavnik geografije,Nastavnici predmetne nastave,51,1205.5,1029.35,718.26,1631.4,500.25,0.39,176.15
+Domar -ložač,"Domari, ložači i održavanje",6,1029.23,1029.23,903.46,1155.0,137.77,0.05,0.0
+Nastavnik sociologije,Nastavnici predmetne nastave,9,990.56,1027.36,829.16,1108.63,299.32,0.07,-36.8
+Pomoćni radnik - čistačica - spremačica,"Higijeničari, spremači, praonice",11,1022.09,1027.0,1027.0,1027.0,10.92,0.08,-4.91
+Nastavnik gitare instruktivna nastava,Nastavnici predmetne nastave,5,1064.62,1026.04,1026.04,1378.99,355.28,0.04,38.58
+Profesor islamske vjeronauke,Nastavnici predmetne nastave,16,1104.38,1026.03,827.59,1539.0,360.69,0.12,78.34
+Domar,"Domari, ložači i održavanje",63,1050.12,1026.0,929.52,1107.78,141.85,0.48,24.12
+Domar- ložač,"Domari, ložači i održavanje",7,981.52,1024.71,903.46,1040.07,74.1,0.05,-43.19
+Komandir smjene,"Rukovodioci (direktor, šef, pomoćnik)",6,1037.3,1017.06,1017.06,1062.6,31.36,0.05,20.24
+Referent za administrativne poslove,Administrativni radnici i referenti,58,928.16,1001.05,633.09,1129.16,316.76,0.44,-72.89
+Higijeničarka,"Higijeničari, spremači, praonice",8,963.88,1000.0,940.09,1077.78,143.95,0.06,-36.12
+Pomoćni radnik u šumarstvu,Šumarstvo i rudarstvo (radnici),29,941.54,1000.0,796.14,1107.78,139.54,0.22,-58.46
+Domar-ložač,"Domari, ložači i održavanje",38,973.34,1000.0,903.46,1024.71,78.83,0.29,-26.66
+Nastavnik fizike,Nastavnici predmetne nastave,99,1126.97,999.23,776.8,1539.03,397.11,0.75,127.74
+Domar ložač,"Domari, ložači i održavanje",16,984.77,999.0,903.46,1024.71,86.61,0.12,-14.23
+Asistent u nastavi,Asistenti u nastavi,273,1044.78,997.89,624.52,1457.22,394.7,2.08,46.89
+Pomoćni radnik - spremačica,"Higijeničari, spremači, praonice",7,996.93,996.52,982.0,1011.76,24.3,0.05,0.41
+Nastavnik kulture življenja,Nastavnici predmetne nastave,8,1093.87,987.0,636.11,1562.1,526.68,0.06,106.87
+Nadzornik u zaštićenom pejzažu,"Čuvari, portiri, nadzornici",11,981.98,981.98,981.98,981.98,0.0,0.08,0.0
+Smjenski bravar,"Domari, ložači i održavanje",5,979.62,979.62,979.62,979.62,0.0,0.04,0.0
+Domar - ložač,"Domari, ložači i održavanje",42,982.37,978.84,903.46,1055.46,120.9,0.32,3.54
+Domar – ložač,"Domari, ložači i održavanje",10,950.08,978.6,913.67,1024.71,114.14,0.08,-28.51
+Kuhar,Kuhari i ishrana,20,941.23,977.9,757.79,1093.02,179.55,0.15,-36.67
+Ložač,"Domari, ložači i održavanje",6,983.01,976.7,915.94,1019.53,199.89,0.05,6.31
+Referent za prijem i otpremu pošte,Administrativni radnici i referenti,5,1022.91,971.52,971.52,1100.0,70.37,0.04,51.39
+Fakturista,"Ekonomisti, računovođe, finansije",16,996.92,971.52,971.52,971.52,102.46,0.12,25.4
+Ekonom,Kuhari i ishrana,23,1002.1,971.52,971.52,971.52,91.71,0.17,30.58
+Čuvar,"Čuvari, portiri, nadzornici",46,1020.47,971.52,971.52,1051.21,95.33,0.35,48.95
+Voditelj medicinske dokumentacije,Administrativni radnici i referenti,42,982.62,971.52,971.52,971.52,34.64,0.32,11.1
+Referent nabave,"Ekonomisti, računovođe, finansije",8,1030.06,971.52,971.52,1005.3,120.64,0.06,58.54
+Tehnički sekretar,Administrativni radnici i referenti,25,1028.38,971.52,971.52,1088.1,114.42,0.19,56.86
+Profesor njemačkog jezika,Nastavnici predmetne nastave,18,1110.38,970.14,740.54,1539.06,442.53,0.14,140.24
+Rukovalac pumpnih postrojenja ps brana modrac,"Domari, ložači i održavanje",5,955.26,955.26,955.26,955.26,0.0,0.04,0.0
+Radnik na održavanju,"Domari, ložači i održavanje",8,1058.32,955.26,955.26,1153.64,153.09,0.06,103.06
+Rukovalac pumpnih postrojenja ps tetima,"Domari, ložači i održavanje",5,955.26,955.26,955.26,955.26,0.0,0.04,0.0
+Bibliotekar škole,"Bibliotekari, arhivisti, muzejski radnici",9,1107.44,933.9,692.57,1539.06,465.62,0.07,173.54
+Nastavnik građanskog obrazovanja,Nastavnici predmetne nastave,5,999.24,927.66,581.98,1417.28,465.13,0.04,71.58
+Vozač zglobnog traktora,Vozači,17,995.02,913.0,913.0,1107.78,142.29,0.13,82.02
+Saradnik za ekonomsko - finansijske poslove,"Ekonomisti, računovođe, finansije",25,1172.88,898.99,815.7,1745.61,445.91,0.19,273.89
+Nastavnik muzičke kulture,Nastavnici predmetne nastave,73,1028.79,894.24,696.6,1390.7,412.03,0.55,134.55
+Pratilac uz šumski zglobni traktor,Šumarstvo i rudarstvo (radnici),5,934.61,890.99,890.98,892.32,96.81,0.04,43.62
+Sjekač,Šumarstvo i rudarstvo (radnici),59,935.91,890.98,818.05,1107.78,137.44,0.45,44.93
+Profesor sociologije,Nastavnici predmetne nastave,9,1140.06,878.65,731.05,1631.4,482.36,0.07,261.41
+Nastavnik psihologije,Nastavnici predmetne nastave,5,980.23,854.04,731.05,1030.06,390.69,0.04,126.19
+Radnik na uzgoju šuma,Šumarstvo i rudarstvo (radnici),12,891.8,831.63,796.14,927.28,133.71,0.09,60.17
+Pomoćni radnik-higijeničar u odsjeku za investicijsko i tekuće održavanje,"Higijeničari, spremači, praonice",32,830.28,830.28,830.28,830.28,0.0,0.24,0.0
+Nastavnik likovne kulture,Nastavnici predmetne nastave,60,995.28,821.56,662.68,1418.75,414.77,0.46,173.72
+Kočijaš,Vozači,7,818.05,818.05,818.05,818.05,0.0,0.05,0.0
+Pratilac uz zglobni traktor,Šumarstvo i rudarstvo (radnici),14,913.83,818.05,818.05,1080.84,136.0,0.11,95.78
+Higijeničar,"Higijeničari, spremači, praonice",642,858.41,813.58,717.32,1000.0,163.16,4.88,44.83
+Radnica na održavanju čistoće,"Domari, ložači i održavanje",16,782.23,804.0,760.35,804.0,27.49,0.12,-21.77
+Signalista,"Čuvari, portiri, nadzornici",10,894.74,803.44,803.44,1031.7,147.01,0.08,91.3
+Higijeničar -ložač,"Higijeničari, spremači, praonice",9,845.7,803.0,717.32,1000.0,222.58,0.07,42.7
+Pomoćni radnik,Pomoćni i fizički radnici,22,836.28,796.14,796.14,796.14,130.79,0.17,40.14
+Čuvar objekata-štalar,"Čuvari, portiri, nadzornici",14,801.21,796.14,796.14,796.14,18.97,0.11,5.07
+Nastavnik historije i građanskog obrazovanja,Nastavnici predmetne nastave,8,895.01,775.58,620.15,1112.55,341.08,0.06,119.42
+Nastavnik tehničke kulture i informatike,Nastavnici predmetne nastave,7,1043.8,771.69,649.3,1463.73,540.09,0.05,272.11
+Higijeničar - ložač,"Higijeničari, spremači, praonice",5,866.03,760.36,760.36,1022.07,144.71,0.04,105.67
+Telefonista,Administrativni radnici i referenti,5,738.13,757.79,708.63,757.79,26.93,0.04,-19.66
+Moler,"Domari, ložači i održavanje",5,757.79,757.79,757.79,757.79,0.0,0.04,0.0
+Radnik na mašini za ribanje i čišćenje,Pomoćni i fizički radnici,5,757.79,757.79,757.79,757.79,0.0,0.04,0.0
+Pomoćnik obducenta,Pomoćni i fizički radnici,7,743.74,757.79,733.21,757.79,23.99,0.05,-14.05
+Skladištar,Pomoćni i fizički radnici,5,864.53,757.79,757.79,971.52,150.92,0.04,106.74
+Nastavnik turskog jezika,Nastavnici predmetne nastave,9,1107.36,756.59,567.81,1631.4,571.36,0.07,350.77
+Tehnička služba,"Domari, ložači i održavanje",27,963.12,756.0,756.0,957.6,325.86,0.21,207.12
+Čistač,"Higijeničari, spremači, praonice",10,745.59,717.32,717.32,717.32,89.39,0.08,28.27
+Higijeničar- ložač,"Higijeničari, spremači, praonice",15,786.79,717.32,662.84,825.8,226.94,0.11,69.47
+Radnik na održavanju higijene,"Domari, ložači i održavanje",9,825.41,717.32,717.32,813.59,165.19,0.07,108.09
+Higijeničar-ložač,"Higijeničari, spremači, praonice",29,791.31,717.32,717.32,838.0,159.45,0.22,73.99
+Servirka,Kuhari i ishrana,54,708.63,708.63,708.63,708.63,0.0,0.41,0.0
+Pomoćni građevinski radnik,Inženjeri i tehničko osoblje,5,835.98,708.63,708.63,1027.0,174.38,0.04,127.35
+Spremačica,"Higijeničari, spremači, praonice",180,828.52,708.63,708.63,1107.78,177.85,1.37,119.89
+Perač veša,"Higijeničari, spremači, praonice",16,708.63,708.63,708.63,708.63,0.0,0.12,0.0
+Pratilac bolesnika,"Higijeničari, spremači, praonice",17,708.63,708.63,708.63,708.63,0.0,0.13,0.0
+Pralja laboratorijskog posuđa,"Medicinske sestre, tehničari i laboranti",6,708.63,708.63,708.63,708.63,0.0,0.05,0.0
+Čistačica,"Higijeničari, spremači, praonice",12,756.45,708.4,708.4,708.4,121.81,0.09,48.05
+Administrativni radnik,Administrativni radnici i referenti,10,726.26,633.36,591.95,732.7,227.25,0.08,92.9
+Pomoćni ložač,"Domari, ložači i održavanje",7,628.02,527.72,519.94,679.28,185.64,0.05,100.3

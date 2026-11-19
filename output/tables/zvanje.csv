@@ -1,0 +1,378 @@
+zvanje,N,Prosjek (KM),Medijan (KM),Q1 (25%),Q3 (75%),Std. devijacija,Udio (%),Razlika prosjek−medijan
+Doktor tehničkih nauka iz područja procesnog inženjerstva,5,3822.98,3946.03,3638.41,3946.03,168.49,0.04,-123.05
+Doktor prirodnih nauka iz područja hemije,6,3828.18,3946.03,3946.03,3946.03,288.68,0.05,-117.85
+Doktor društvenih nauka iz područja ekonomije,20,3871.47,3946.03,3946.03,3946.03,161.51,0.15,-74.56
+Doktor društvenih nauka iz područja fizičke kulture,8,3907.58,3946.03,3946.03,3946.03,108.76,0.06,-38.45
+Doktor društvenih nauka iz područja logopedije,5,3817.08,3946.03,3946.03,3946.03,288.33,0.04,-128.95
+Doktor tehničkih nauka iz područja prehrambenog inženjerstva,5,3822.98,3946.03,3638.41,3946.03,168.49,0.04,-123.05
+Doktor matematičkih nauka,6,3843.49,3946.03,3715.32,3946.03,158.85,0.05,-102.54
+Doktor tehničkih nauka iz područja građevinarstva,7,3897.54,3946.03,3638.41,3946.03,318.28,0.05,-48.49
+Doktor tehničkih nauka iz područja rudarstva,7,3858.9,3946.03,3946.03,3946.03,230.54,0.05,-87.13
+Doktor tehničkih nauka iz područja mašinstva,10,3731.23,3638.41,3638.41,3946.03,206.5,0.08,92.82
+Doktor tehničkih nauka iz područja geologije,6,3690.56,3638.41,3638.41,3869.12,229.93,0.05,52.15
+Doktor prirodnih nauka iz područja matematike,5,3617.21,3638.41,3638.41,3638.41,47.4,0.04,-21.2
+Doktor tehničkih nauka iz područja elektrotehnike,16,3641.92,3638.41,3638.41,3715.32,468.13,0.12,3.51
+Doktor prirodnih nauka iz područja geografije,5,3638.41,3638.41,3638.41,3638.41,0.0,0.04,0.0
+Doktor prirodnih nauka iz područja fizike,5,3699.93,3638.41,3638.41,3638.41,137.57,0.04,61.52
+Doktor pedagoških nauka,8,3530.28,3638.41,3336.09,3638.41,269.01,0.06,-108.13
+Doktor farmaceutskih nauka/znanosti,5,3577.95,3638.41,3638.41,3638.41,135.2,0.04,-60.46
+Doktor prirodnih nauka iz područja biologije,8,3711.63,3638.41,3638.41,3946.03,225.09,0.06,73.22
+Doktor hemijskih nauka,6,3523.21,3336.09,3336.09,3793.54,329.67,0.05,187.12
+Doktor tehničkih nauka,5,2973.17,3336.09,3336.09,3580.42,1313.02,0.04,-362.92
+Specijalista opće hirurgije,6,2591.38,2672.6,2314.85,2847.6,294.44,0.05,-81.22
+Specijalista transfuzijske medicine,6,2607.51,2550.76,2253.93,2847.6,406.79,0.05,56.75
+Specijalista ginekologije i akušerstva,18,2443.06,2331.65,2331.65,2331.65,264.55,0.14,111.41
+Specijalista opšte hirurgije,20,2300.56,2331.65,2253.93,2331.65,39.06,0.15,-31.09
+Specijalista interne medicine,45,2385.72,2331.65,2331.65,2331.65,219.35,0.34,54.07
+Specijalista pedijatrije,22,2321.05,2331.65,2331.65,2331.65,27.3,0.17,-10.6
+Diplomirani veterinar,21,2034.97,2316.23,1631.4,2316.23,426.42,0.16,-281.26
+Specijalista fizikalne medicine i rehabilitacije,8,2391.09,2292.79,2253.93,2331.65,296.25,0.06,98.3
+Specijalista medicinske biohemije,6,2397.96,2253.93,2253.93,2253.93,352.79,0.05,144.03
+Specijalista pneumoftiziologije,7,2265.03,2253.93,2253.93,2253.93,29.38,0.05,11.1
+Specijalista otorinolaringologije,12,2366.1,2253.93,2253.93,2273.36,340.92,0.09,112.17
+Specijalista patološke anatomije,7,2253.93,2253.93,2253.93,2253.93,0.0,0.05,0.0
+Specijalista dijagnostičke radiologije,12,2253.93,2253.93,2253.93,2253.93,0.0,0.09,0.0
+Specijalista urologije,8,2436.16,2253.93,2253.93,2402.35,345.08,0.06,182.23
+Specijalista dermatovenerologije,5,2253.93,2253.93,2253.93,2253.93,0.0,0.04,0.0
+Specijalista opće interne medicine,12,2273.36,2253.93,2253.93,2273.36,35.15,0.09,19.43
+Specijalista oftalmologije,9,2253.93,2253.93,2253.93,2253.93,0.0,0.07,0.0
+Specijalista pulmologije,5,2253.93,2253.93,2253.93,2253.93,0.0,0.04,0.0
+Specijalista neuropsihijatrije,19,2290.74,2253.93,2253.93,2331.65,39.87,0.14,36.81
+Specijalista anesteziologije sa reanimatologijom,43,2290.58,2253.93,2253.93,2253.93,126.99,0.33,36.65
+Specijalista transfuziologije,6,2279.84,2253.93,2253.93,2312.22,40.13,0.05,25.91
+Specijalista neurologije,5,2253.93,2253.93,2253.93,2253.93,0.0,0.04,0.0
+Specijalista neurohirurgije,9,2349.95,2253.93,2253.93,2253.93,288.05,0.07,96.02
+Specijalista dječije hirurgije,7,2253.93,2253.93,2253.93,2253.93,0.0,0.05,0.0
+Specijalista ginekologije i opstetricije,5,2253.93,2253.93,2253.93,2253.93,0.0,0.04,0.0
+Specijalista infektologije,11,2332.49,2253.93,2253.93,2253.93,260.55,0.08,78.56
+Specijalista ortopedije,17,2253.93,2253.93,2253.93,2253.93,0.0,0.13,0.0
+Diplomirani ekonimista,8,2309.33,2144.14,2012.77,2784.77,522.85,0.06,165.19
+Dipl. pravnik,21,1996.52,2144.14,1797.98,2144.14,441.26,0.16,-147.62
+Magistar ekonomije,10,2037.66,2103.66,1875.96,2144.15,690.72,0.08,-66.01
+Magistar elektrotehnike,5,1999.67,2063.19,2063.19,2063.19,142.03,0.04,-63.52
+Prof.razredne nastave,5,1840.33,2015.44,1425.56,2080.46,388.6,0.04,-175.11
+Magistar farmacije,34,1931.34,2001.33,1769.48,2047.72,385.96,0.26,-69.99
+Doktor na specijalizaciji,6,2129.21,2001.33,2001.33,2001.33,313.25,0.05,127.88
+Doktor medicine,78,1995.76,2001.33,1618.11,2520.0,482.64,0.59,-5.57
+Doktor medicine na specijalizaciji,174,2124.81,2001.33,2001.33,2001.33,282.77,1.32,123.48
+Diplomirani inženjer tehnolog,6,1964.83,1983.42,1739.65,2227.2,329.8,0.05,-18.59
+Dipl. medicinska sestra,18,1914.73,1940.4,1940.4,1940.4,108.89,0.14,-25.67
+Bakalaureat/bachelor razredne nastave,7,1918.15,1885.26,1751.07,2112.18,286.56,0.05,32.89
+Diplomirani inžinjer saobraćaja,10,1726.61,1868.0,1746.0,1981.75,522.83,0.08,-141.39
+Diplomirani pravnik,280,2005.27,1840.08,1674.04,2147.22,497.37,2.13,165.19
+Diplomirani glumac,13,2028.09,1797.99,1797.99,2015.44,584.81,0.1,230.1
+Defektolog surdoaudiolog,14,1790.51,1797.99,1797.99,1797.99,19.02,0.11,-7.48
+Bachelor glumac,7,1703.01,1797.99,1742.63,1797.99,225.18,0.05,-94.98
+Dipl.pravnik,14,1694.36,1797.98,1577.8,1840.08,362.33,0.11,-103.62
+Diplomirana medicinska sestra tehničar,20,1698.6,1797.9,1784.83,1797.9,297.04,0.15,-99.3
+Magistar engleskog jezika i književnosti,6,1995.48,1750.16,1659.95,1986.07,634.35,0.05,245.32
+Profesor informatike,8,1443.04,1745.71,1050.97,1797.99,521.71,0.06,-302.67
+Dipl.ing.elektrotehnike,34,1684.74,1745.61,1689.55,1745.61,273.12,0.26,-60.87
+Diplomirani defektolog oligofrenolog,7,1708.0,1745.61,1539.06,1766.14,191.15,0.05,-37.61
+Nastavnik matematike,5,1679.59,1745.61,1511.09,1778.46,280.77,0.04,-66.02
+Magistar prava,13,1820.41,1745.61,1539.06,1934.96,519.76,0.1,74.8
+Bachelor/bakalaureat razredne nastave,5,1683.94,1745.61,1539.06,1797.98,133.97,0.04,-61.67
+Diplomirani defektolog- surdoaudiolog,5,1547.49,1745.61,1648.17,1797.99,454.51,0.04,-198.12
+Bach.in.elektrotehnike,5,1704.84,1745.61,1745.61,1745.61,92.71,0.04,-40.77
+Dipl. ing. mašinstva,7,1651.52,1745.6,1589.61,1745.6,176.83,0.05,-94.08
+Profesor fizičke kulture,12,1658.94,1745.6,1539.06,1758.68,146.44,0.09,-86.66
+Bachelor inžinjer elektrotehnike,7,1753.92,1745.6,1739.65,1798.2,243.9,0.05,8.32
+Dipl.ing.mašinstva,8,1730.45,1745.6,1620.46,1758.7,232.15,0.06,-15.15
+Diplomirani inženjer geologije,6,1817.39,1741.56,1589.21,1821.78,354.07,0.05,75.83
+Dipl. ing. elektrotehnike,6,1700.16,1729.31,1729.31,1729.31,71.39,0.05,-29.15
+Diplomirani ekonomist,36,1673.32,1727.47,1539.06,2060.34,577.42,0.27,-54.15
+Diplomirani profesor informatike i tehnike,6,1413.6,1714.7,985.2,1797.99,577.2,0.05,-301.1
+Diplomirani inžinjer rudarstva,8,1747.43,1694.76,1539.06,1892.16,330.76,0.06,52.66
+Bachelor prava,95,1708.62,1694.0,1554.43,1797.99,274.77,0.72,14.62
+Diplomirani ekonomista,237,1698.02,1694.0,1539.06,1994.04,532.45,1.8,4.02
+Bachelor matematike i informatike,26,1625.9,1688.5,1539.06,1745.61,267.64,0.2,-62.6
+Magistar šumarstva,8,1751.77,1682.88,1598.93,1777.1,254.93,0.06,68.89
+Bachelor socijalnog rada,6,1667.02,1682.57,1632.93,1720.45,69.93,0.05,-15.55
+Bachelor pedagogije-psihologije,5,1523.79,1682.57,1249.04,1739.65,458.72,0.04,-158.78
+Bachelor - inžinjer mašinstva,6,1663.78,1681.9,1584.48,1745.6,92.0,0.05,-18.12
+Bachelor ekonomije,68,1569.77,1679.7,1425.56,1797.98,458.64,0.52,-109.92
+Diplomirani inžinjer šumarstva,23,1699.25,1678.54,1520.1,1817.52,355.42,0.17,20.71
+Diplomirani socijalni radnik,10,1732.28,1665.78,1564.71,1985.72,312.25,0.08,66.5
+Mentor,17,1467.88,1665.39,1258.59,1797.99,428.29,0.13,-197.51
+Savjetnik,34,1652.05,1665.39,1665.39,1797.99,280.61,0.26,-13.34
+Dipl.ecc,9,1503.79,1665.39,685.57,2011.0,755.88,0.07,-161.6
+Diplomirani inžinjer šum,11,1783.58,1659.33,1600.24,1659.33,532.45,0.08,124.25
+Diplomirani žurnalista,28,1738.92,1653.0,1576.88,1865.16,363.17,0.21,85.92
+Diplomirani inženjer saobraćaja,10,1703.78,1649.5,1539.06,1745.6,585.77,0.08,54.27
+Diplomirani inžinjer tehnologije,6,1511.71,1642.33,1363.63,1784.82,464.72,0.05,-130.62
+Bachelor islamske teologije,8,1588.92,1631.4,1569.8,1659.95,180.12,0.06,-42.48
+Profesor pedagogije,22,1666.4,1631.4,1539.06,1745.61,240.76,0.17,35.0
+Magistar tehničkog odgoja i informatike,7,1529.67,1631.4,1539.06,1745.61,441.81,0.05,-101.73
+Profesor teoretskih muzičkih predmeta,15,1492.68,1631.4,1327.78,1771.8,355.23,0.11,-138.72
+Profesor bosanskog jezika i kjniževnosti,9,1558.36,1631.4,1299.77,1797.99,452.75,0.07,-73.04
+Diplomirani pedagog- psiholog,18,1494.04,1631.2,1537.43,1745.61,370.1,0.14,-137.16
+Profesor informatike i tehničkog odgoja,7,1433.78,1630.59,1250.94,1688.3,414.71,0.05,-196.81
+Pedagog-psiholog,6,1607.04,1628.35,1440.13,1752.35,178.48,0.05,-21.31
+Diplomirani defektolog logoped,5,1630.5,1618.69,1539.06,2060.96,488.16,0.04,11.81
+Bachelor inžinjer mašinstva,7,1574.03,1618.19,1420.58,1744.54,252.94,0.05,-44.16
+Prof. razredne nastave,9,1480.58,1616.88,1488.15,1616.88,471.35,0.07,-136.3
+Bachelor-inžinjer elektrotehnike,10,1430.7,1616.75,1171.29,1739.65,439.53,0.08,-186.05
+Profesor bosankog jezika i književnosti,12,1503.2,1608.53,1243.57,1797.98,335.69,0.09,-105.33
+Diplomirani pedagog-psiholog,36,1505.96,1585.23,1539.06,1797.96,395.03,0.27,-79.27
+Bachelor žurnalistike,13,1536.14,1583.0,1479.0,1609.5,178.27,0.1,-46.86
+Diplomirani pedagog psiholog,16,1598.14,1577.63,1539.06,1757.38,372.17,0.12,20.51
+Bachelor engleskog jezika i književnosti,10,1469.4,1575.6,1377.94,1739.65,350.57,0.08,-106.2
+Bachelor- inžinjer elektrotehnike,12,1571.2,1564.03,1493.82,1739.65,309.04,0.09,7.17
+Diplomirani fizioterapeut,9,1641.86,1563.37,1554.43,1797.9,119.01,0.07,78.49
+Bakalaureat/bachelor prava,5,1642.99,1554.43,1425.56,1616.88,395.42,0.04,88.56
+Bakalaureat/bachelor radiologije,9,1554.43,1554.43,1554.43,1554.43,0.0,0.07,0.0
+Bakaleureat/bachelor sestrinstva,22,1554.43,1554.43,1554.43,1554.43,0.0,0.17,0.0
+Bakalaureat/bachelor zdravstva smjer sestrinstvo,9,1554.43,1554.43,1554.43,1554.43,0.0,0.07,0.0
+Bakalaureat/bachelor sestrinstva,18,1653.76,1554.43,1554.43,1554.43,228.54,0.14,99.33
+Bachelor poslovne ekonomije,7,1593.34,1554.43,1452.86,1770.25,471.45,0.05,38.91
+Diplomirani inžinjer medicinske radiologije,7,1639.57,1554.43,1554.43,1554.43,225.26,0.05,85.14
+Diplomirani medicisnki tehničar/sestra,62,1588.97,1554.43,1554.43,1554.43,209.22,0.47,34.54
+Diplomirani inžinjer medicinsko - laboratorijske dijagnostike,7,1554.43,1554.43,1554.43,1554.43,0.0,0.05,0.0
+Diplomirana medicinska sestra - tehničar,12,1554.43,1554.43,1554.43,1554.43,0.0,0.09,0.0
+Dipl. ing. med. radiologije,19,1554.43,1554.43,1554.43,1554.43,0.0,0.14,0.0
+Diplomirani defektolog - logoped,6,1445.19,1554.43,1554.43,1554.43,267.58,0.05,-109.24
+Diplomirani edukator rehabilitator,5,1481.13,1554.43,1539.06,1745.61,413.77,0.04,-73.3
+Dipl.ekonomist,16,1709.01,1554.43,1554.43,1729.31,384.28,0.12,154.58
+Dipl. ing. medicinske radiologije,16,1554.43,1554.43,1554.43,1554.43,0.0,0.12,0.0
+Diplomirani medicinar ( sestra ) zdravstvene njege 180 ects,16,1591.68,1554.43,1554.43,1554.43,148.99,0.12,37.25
+Diplomirani medicinar ( sestra ) zdravstvene njege 240 ects,17,1589.49,1554.43,1554.43,1554.43,144.54,0.13,35.06
+Diplomirani medicinar zdravstvene njege,60,1564.36,1554.43,1554.43,1554.43,76.94,0.46,9.93
+Diplomirani medicinar(sestra) zdravstvene njege 240 ects,14,1554.43,1554.43,1554.43,1554.43,0.0,0.11,0.0
+Diplomirani medicinsko-laboratorijski inženjer 180 ects,14,1639.57,1554.43,1554.43,1554.43,216.42,0.11,85.14
+Diplomirani medicinsko-laboratorijski inženjer 240 ects,5,1673.62,1554.43,1554.43,1554.43,266.53,0.04,119.19
+Diplomirana medicinska sestra,33,1635.05,1554.43,1554.43,1554.43,261.39,0.25,80.62
+Diplomirani inženjer rudarstva,17,1605.29,1541.64,1080.54,1847.88,771.48,0.13,63.65
+Bachelor razredne nastave,103,1493.77,1539.06,1425.56,1666.05,341.62,0.78,-45.29
+Magistar društvenih nauka iz područja fizičke kulture,7,1273.33,1539.06,924.52,1539.06,365.78,0.05,-265.73
+Magistar razredne nastave,14,1597.4,1539.06,1539.06,1608.32,102.89,0.11,58.34
+Profesor razredne nastave,625,1569.12,1539.06,1426.0,1665.39,217.75,4.75,30.06
+Profesor za fizičku kulturu,7,1362.36,1539.06,1154.3,1642.33,453.53,0.05,-176.7
+Bachelor njemačkog jezika i književnosti,13,1432.13,1539.06,1312.06,1739.65,403.92,0.1,-106.93
+Profesor opštenarodne odbrane,5,1291.14,1539.06,846.48,1539.06,442.39,0.04,-247.92
+Profesor matematike i fizike,30,1422.93,1539.06,1321.72,1597.43,345.9,0.23,-116.13
+Profesor matematike,115,1479.71,1539.06,1416.48,1719.51,317.89,0.87,-59.35
+Profesor historije i geografije,119,1510.68,1539.06,1537.1,1745.61,338.32,0.9,-28.38
+Diplomirani profesor matematike i fizike,11,1582.36,1539.06,1413.9,1809.26,368.92,0.08,43.3
+Diplomirani inženjer tehnologije,7,1410.22,1539.06,1028.6,1741.56,583.02,0.05,-128.84
+Diplomirani medicinski tehničar/sestra,6,1456.02,1539.06,1442.34,1539.06,511.99,0.05,-83.04
+Prof. engleskog jezika i književnosti,5,1514.54,1539.06,1539.06,1539.06,54.82,0.04,-24.52
+Dipl.ing. tehnologije,10,1343.32,1539.06,1025.3,1539.06,465.05,0.08,-195.74
+Dipl.ing.tehnologije,6,1482.74,1539.06,1539.02,1764.76,457.24,0.05,-56.32
+Dipl.pedagog-psiholog,13,1347.38,1539.06,914.17,1745.61,490.54,0.1,-191.68
+Diplomirana medicinska sestra-tehničar,6,1607.6,1539.06,1539.06,1539.06,167.88,0.05,68.54
+Dipl. ekonomista,33,1549.58,1539.06,1343.79,1746.0,558.07,0.25,10.52
+Diplomirani inženjer elektrotehnike,27,1754.35,1539.06,1539.06,1771.79,335.23,0.21,215.29
+Profesor biologije i hemije,38,1424.78,1539.06,1211.21,1745.61,406.62,0.29,-114.28
+Diplomirani inžinjer arhitekture,5,1405.35,1539.06,1539.06,1539.06,298.99,0.04,-133.71
+Diplomirani inžinjer elektrotehnike,29,1664.34,1539.06,1539.06,1745.6,210.4,0.22,125.28
+Diplomirani inžinjer mašinstva,19,1583.38,1539.06,1539.06,1745.6,199.46,0.14,44.32
+Diplomirani inžinjer poljoprivrede,16,1440.48,1539.06,1304.49,1539.06,546.09,0.12,-98.59
+Diplomirani inžinjer tekstilne tehnologije,7,1568.89,1539.06,1539.06,1539.06,78.93,0.05,29.83
+Diplomirani inženjer mašinstva,10,1664.54,1539.06,1539.06,1627.96,248.39,0.08,125.48
+Profesor engleskog jezika i književnosti,231,1449.34,1539.06,1210.85,1745.61,411.35,1.76,-89.72
+Profesor engleskog jezika,91,1396.13,1539.06,1174.58,1631.4,381.57,0.69,-142.93
+Diplomirani pedagog - psiholog,47,1514.57,1539.06,1539.03,1665.78,318.23,0.36,-24.49
+Diplomirani pedagog -psiholog,6,1552.98,1539.06,1539.06,1539.06,106.44,0.05,13.92
+Profesor bosanskog jezika i književnosti,258,1395.13,1539.06,1030.82,1745.61,424.56,1.96,-143.93
+Dipl.pedagog psiholog,6,1421.0,1539.03,1539.0,1539.06,398.97,0.05,-118.03
+Profesor matematike i informatike,14,1316.19,1539.03,978.38,1539.06,383.03,0.11,-222.84
+Dipl.defektolog logoped,7,1576.01,1539.0,1539.0,1539.03,97.89,0.05,37.01
+Dipl.defektolog oligofrenolog,18,1539.0,1539.0,1539.0,1539.0,0.0,0.14,0.0
+Profesor biologije,92,1286.48,1539.0,917.0,1554.43,412.43,0.7,-252.52
+Diplomirani profesor razredne nastave,5,1403.07,1539.0,997.89,1682.57,381.08,0.04,-135.93
+Profesor turskog jezika,6,1387.87,1539.0,1518.0,1539.0,403.85,0.05,-151.13
+Profesor filozofije i sociologije,15,1223.22,1539.0,906.14,1539.06,428.25,0.11,-315.78
+Profesor tjelesnog i zdravstvenog odgoja,27,1364.44,1539.0,1114.82,1539.06,337.03,0.21,-174.56
+Profesor tjelesnog odgoja,9,1343.49,1539.0,1133.18,1550.0,339.99,0.07,-195.51
+Profesor bosanskog jezika,40,1386.9,1531.44,1379.54,1544.23,346.61,0.3,-144.54
+Bachelor historije,14,1223.41,1525.04,606.21,1644.6,518.02,0.11,-301.63
+Bachelor šumarstva,6,1521.46,1523.42,1245.94,1678.56,314.74,0.05,-1.95
+Bachelor matematike i fizike,10,1386.91,1512.23,1354.99,1539.04,322.65,0.08,-125.32
+Prof razredne nastave,5,1389.35,1511.09,1000.0,1745.61,393.13,0.04,-121.74
+Bachelor-inžinjer mašinstva,6,1441.81,1507.7,1128.07,1739.65,334.15,0.05,-65.89
+Medicinska sestra-tehničar,14,1399.18,1505.28,1281.16,1505.28,145.92,0.11,-106.1
+Bachelor logopedije i audiologije,10,1303.56,1495.55,884.62,1568.54,430.33,0.08,-191.99
+Profesor fizike,67,1275.12,1494.0,872.8,1539.06,411.32,0.51,-218.88
+Nastavnik engleskog jezika,9,1385.51,1488.14,1312.06,1539.06,313.17,0.07,-102.63
+Nastavnik islamske vjeronauke,11,1382.77,1488.14,1312.06,1616.88,472.68,0.08,-105.37
+Nastavnik razredne nastave,256,1454.21,1488.14,1312.06,1532.79,175.57,1.95,-33.93
+Diplomirani edukator-rehabilitator,5,1364.15,1482.0,1364.0,1539.06,290.17,0.04,-117.85
+Profesor tehničkog odgoja i informatike,47,1355.86,1479.76,1235.44,1616.88,366.54,0.36,-123.9
+Apsolvent,7,1461.63,1467.9,1423.71,1568.21,131.34,0.05,-6.27
+Profesor informatike i tehnike,6,1424.1,1461.91,1319.48,1528.86,125.64,0.05,-37.81
+Doktor dentalne medicine,10,1294.2,1461.3,1130.32,1539.06,408.37,0.08,-167.1
+Profesor tjelesnog odgoja i sporta,99,1312.65,1455.44,906.67,1623.62,412.07,0.75,-142.79
+Dipl.ekonomista,6,1393.55,1438.38,1039.23,1797.98,466.71,0.05,-44.83
+Profesor tehničkog odgoja,9,1391.14,1426.0,1425.56,1539.0,326.76,0.07,-34.86
+Nastavnik historije i geografije,5,1351.65,1425.56,1312.06,1532.79,243.55,0.04,-73.91
+Profesor razrede nastave,11,1532.22,1425.56,1425.56,1616.88,138.15,0.08,106.66
+Profesor islamske vjeronauke,60,1256.69,1421.02,859.49,1616.88,438.45,0.46,-164.33
+Profesor likovne kulture,16,1190.0,1421.02,679.72,1539.06,495.19,0.12,-231.02
+Bachelor ing. mašinstva,5,1525.29,1416.48,1416.48,1631.4,154.37,0.04,108.81
+Dipl.ekonom,5,1416.48,1416.48,1416.48,1416.48,0.0,0.04,0.0
+Pravnik,14,1437.36,1414.64,1331.86,1521.64,205.68,0.11,22.72
+Ekonomist,5,1457.21,1412.09,1412.09,1532.8,118.73,0.04,45.12
+Tehničar elektronike,5,1283.88,1411.99,1188.42,1411.99,201.55,0.04,-128.11
+Ekonomsko komercijalni tehničar,8,1331.1,1411.99,1292.66,1411.99,132.0,0.06,-80.89
+Nastavnik bosanskog jezika i književnosti,20,1339.11,1406.12,1264.78,1562.14,362.62,0.15,-67.01
+Nastavnik biologije,5,1258.69,1391.0,919.67,1539.0,467.77,0.04,-132.31
+Bachelor-inženjer elektrotehnike,5,1323.59,1385.15,1077.34,1539.06,233.41,0.04,-61.56
+Bachelor engleskog jezika,8,1255.39,1375.86,763.08,1631.4,463.58,0.06,-120.47
+Bachelor fizike,25,1227.35,1373.8,815.7,1554.43,420.13,0.19,-146.45
+Defektolog,10,1279.16,1364.27,984.26,1416.48,336.47,0.08,-85.11
+Medicinska sestra/tehničar,112,1263.41,1360.8,1088.1,1360.8,131.25,0.85,-97.39
+Bachelor/bakalaureat matematike i informatike,6,1264.87,1337.06,860.92,1608.02,459.63,0.05,-72.2
+Bachelor matematike,50,1258.02,1328.94,842.92,1730.21,456.79,0.38,-70.93
+Bachelor biologije,20,1216.07,1322.52,780.59,1620.5,462.25,0.15,-106.46
+Nastavnik tehničkog odgoja i informatike,42,1165.93,1312.06,902.64,1425.56,320.14,0.32,-146.13
+Nastavnik matematike i fizike,7,1276.49,1312.06,1312.03,1351.38,216.78,0.05,-35.57
+Nastavnik biologije i hemije,28,1195.09,1312.06,744.07,1499.31,388.09,0.21,-116.97
+Nastavnik tehničkog odgoja,14,1199.91,1312.03,905.58,1488.1,438.52,0.11,-112.12
+Nastavnik likovne kulture,5,1118.95,1312.0,666.0,1312.06,496.09,0.04,-193.05
+Tehničar elektroenergetike,7,1304.31,1304.74,1255.86,1411.99,124.7,0.05,-0.43
+Bachelor specijalne edukacije i rehablitacije,5,1303.77,1300.5,898.99,1741.07,439.38,0.04,3.27
+Profesor bosanski jezika i književnosti,5,1311.16,1298.58,1221.93,1539.06,410.1,0.04,12.58
+Ekonomsko-komercijalni tehničar,14,1287.85,1285.74,1211.76,1412.0,134.81,0.11,2.12
+Tehničar drumskog saobraćaja,34,1239.77,1285.73,1077.78,1411.99,176.58,0.26,-45.96
+Viši medicinski tehničar,7,1318.17,1282.41,1282.41,1282.41,94.6,0.05,35.76
+Viši fizioterapeut,5,1282.41,1282.41,1282.41,1282.41,0.0,0.04,0.0
+Profesor njemačkog jezika i književnosti,88,1220.82,1270.21,845.93,1539.06,422.38,0.67,-49.39
+Bachelor tehničkog odgoja i informatike,31,1147.31,1258.59,721.8,1525.04,440.59,0.24,-111.28
+Poslovno-pravni tehničar,8,1212.73,1248.6,1162.89,1383.37,259.45,0.06,-35.87
+Ekonomista,13,1241.11,1234.8,1234.8,1324.68,207.87,0.1,6.31
+Birotehničar,10,1242.17,1226.42,1211.76,1304.74,129.92,0.08,15.74
+Nastavnik tjelesnog odgoja,7,1202.29,1221.93,996.66,1439.46,428.67,0.05,-19.64
+Elektrotehničar energetike,52,1210.47,1220.47,1072.2,1411.99,193.85,0.4,-10.0
+Upravni tehničar,19,1215.57,1211.76,1103.32,1411.99,164.87,0.14,3.81
+Administrativni tehničar,37,1216.16,1211.76,1077.78,1411.99,177.54,0.28,4.4
+Ekonomska škola,17,1219.15,1211.76,1211.76,1211.76,120.58,0.13,7.39
+Saobraćajni tehničar,7,1192.49,1211.76,1091.64,1310.6,162.83,0.05,-19.27
+Upravno-administrativni tehničar,5,1103.37,1211.76,1164.0,1211.76,216.8,0.04,-108.39
+Profesor engleskog jezik i književnosti,8,1252.31,1208.29,994.5,1539.06,360.06,0.06,44.02
+Majstor automehaničar,5,1215.95,1205.16,1203.1,1211.76,23.02,0.04,10.79
+Elektrotehničar,21,1188.08,1188.0,979.62,1366.0,208.27,0.16,0.08
+Diplomirani teoretičar umjetnosti - muzika,7,1202.15,1180.85,891.88,1463.23,400.84,0.05,21.3
+Profesor historije,117,1168.19,1179.0,767.73,1539.06,451.21,0.89,-10.81
+Bachelor socijalne pedagogije,16,1185.92,1172.94,621.84,1599.96,541.7,0.12,12.99
+Diplomirani socijalni pedagog,19,1172.44,1165.5,832.69,1533.58,381.86,0.14,6.94
+Maturant gimnazije,18,1143.19,1164.0,1116.84,1211.76,140.81,0.14,-20.81
+Profesor islamske teologije,41,1193.49,1163.8,854.04,1539.06,411.18,0.31,29.69
+Nastavnik fizičkog vaspitanja,10,1110.37,1156.71,877.27,1444.12,366.38,0.08,-46.34
+Ekonomski tehničar,293,1148.06,1154.0,971.52,1344.0,227.94,2.23,-5.94
+Vkv majstor frizer,7,1030.31,1149.6,766.4,1203.1,263.67,0.05,-119.29
+Opća gimnazija,18,1004.71,1145.24,637.84,1332.68,353.24,0.14,-140.54
+Bachelor hemije,13,1043.83,1133.32,808.44,1249.04,349.93,0.1,-89.49
+Elektrotehničar elektronike,6,1152.89,1128.78,998.08,1273.5,180.19,0.05,24.11
+Limar,6,1061.42,1121.55,1042.28,1155.0,159.39,0.05,-60.13
+Sss medicinska sestra tehničar,5,1116.0,1116.0,1116.0,1116.0,0.0,0.04,0.0
+Rukovalac rudarske mehanizacije,5,1087.72,1107.78,1107.78,1107.78,44.86,0.04,-20.06
+Turistički tehničar,7,1129.09,1107.78,1088.89,1239.24,178.93,0.05,21.31
+Šumarski tehničar,84,1100.34,1107.78,1107.28,1107.78,105.8,0.64,-7.44
+Rudarski tehničar,44,1102.81,1106.64,1017.06,1213.46,184.43,0.33,-3.83
+Geološki tehničar,7,1034.67,1106.4,971.52,1159.2,191.21,0.05,-71.73
+Kuhar specijalist,10,1149.83,1102.05,1088.1,1180.43,102.26,0.08,47.78
+Profesor likovne umjetnosti,6,1180.98,1101.95,632.64,1644.25,661.54,0.05,79.03
+Muzičar općeg smjera,17,1141.35,1101.49,1093.04,1378.99,270.49,0.13,39.86
+Gimnazija,132,1125.48,1100.0,1069.45,1241.09,193.0,1.0,25.48
+Profesor hemije,72,1182.79,1089.4,774.38,1540.98,449.44,0.55,93.39
+Ginekološko akušerska sestra - tehničar,12,1088.1,1088.1,1088.1,1088.1,0.0,0.09,0.0
+Akušerska sestra,31,1107.53,1088.1,1088.1,1088.1,80.96,0.24,19.43
+Akušersko - ginekološka sestra - tehničar,16,1088.1,1088.1,1088.1,1088.1,0.0,0.12,0.0
+Majstor kuhar,8,1056.07,1088.1,1080.54,1088.1,203.96,0.06,-32.03
+Medicinska sestra - tehničar,672,1109.01,1088.1,1088.1,1088.1,99.58,5.11,20.91
+Medicinski laborant,6,1088.1,1088.1,1088.1,1088.1,0.0,0.05,0.0
+Medicinski tehničar,25,1126.14,1088.1,1088.1,1088.1,262.83,0.19,38.04
+Sanitarni tehničar,5,1088.1,1088.1,1088.1,1088.1,0.0,0.04,0.0
+Stomatološka sestra,8,1088.1,1088.1,1088.1,1088.1,0.0,0.06,0.0
+Pedijatrijska sestra-tehničar,5,1088.1,1088.1,1088.1,1088.1,0.0,0.04,0.0
+Laboratorijski tehničar,47,1161.13,1088.1,1088.1,1088.1,150.55,0.36,73.03
+Farmaceutski tehničar,28,1135.72,1088.1,1088.1,1088.1,125.66,0.21,47.62
+Fizioterapeutski tehničar,28,1092.83,1088.1,1088.1,1088.1,15.8,0.21,4.73
+Pedijatrijska sestra - tehničar,43,1088.1,1088.1,1088.1,1088.1,0.0,0.33,0.0
+Prof bhs jezika i književnosti,7,1165.11,1087.66,1009.0,1147.76,263.69,0.05,77.45
+Vozač motornih vozila,57,1115.68,1077.78,1015.26,1198.66,190.55,0.43,37.9
+Plinski i vodoinstalater,5,976.42,1077.78,890.98,1077.78,146.56,0.04,-101.36
+Mašinski tehničar za kompjutersko projektovanje,11,1044.16,1077.78,994.29,1159.76,198.23,0.08,-33.62
+Kuhar,26,991.63,1077.78,789.54,1107.78,222.55,0.2,-86.15
+Obućar,5,1015.95,1077.78,1077.78,1107.78,172.45,0.04,-61.83
+Hemijski tehničar u farmaceutskoj proizvodnji,6,1102.9,1077.78,1077.78,1100.28,109.47,0.05,25.12
+Poslovno pravni tehničar,13,1018.57,1077.78,971.52,1100.0,226.85,0.1,-59.21
+Mehaničar motora i motornih vozila,5,1082.31,1077.78,1077.78,1077.78,45.96,0.04,4.53
+Instalater centralnog grijanja,10,1051.95,1075.94,980.06,1077.78,89.78,0.08,-23.99
+Prodavač,30,943.6,1070.0,779.24,1107.78,178.15,0.23,-126.4
+Muzičar harmonikaš,6,1171.46,1063.76,1026.01,1174.37,295.1,0.05,107.7
+Nepoznato,305,1120.38,1056.91,789.96,1411.99,372.84,2.32,63.47
+Profesor geografije,62,1173.89,1055.59,723.76,1627.34,478.98,0.47,118.29
+Elektromehaničar,18,990.33,1054.8,819.69,1107.78,170.23,0.14,-64.47
+Profesor njemačkog jezika,42,1133.83,1052.74,655.0,1539.06,476.24,0.32,81.09
+Šum. tehničar,48,1047.78,1042.13,956.82,1105.77,177.17,0.36,5.65
+Elektroinstalater,14,1000.8,1040.24,962.8,1077.78,99.12,0.11,-39.44
+Profesor turskog jezika i književnosti,12,1133.5,1032.9,738.74,1558.22,467.16,0.09,100.6
+Bachelor islamske vjeronauke,7,1132.36,1027.36,945.2,1349.9,243.08,0.05,105.0
+Bez zanimanja osnovna škola,6,941.42,1027.0,1027.0,1027.0,209.64,0.05,-85.58
+Nekvalificirani radnik,10,1021.6,1027.0,1027.0,1027.0,11.38,0.08,-5.4
+Građevinski tehničar,9,1086.38,1027.0,971.52,1077.78,162.54,0.07,59.38
+Mašinski tehničar,101,1048.29,1017.06,944.3,1164.5,216.83,0.77,31.23
+Profesor muzičkih teoretskih predmeta,5,866.72,1012.0,611.0,1086.92,277.08,0.04,-145.28
+Bachelor bosanskog jezika i književnosti,9,1112.18,1010.55,832.7,1539.06,444.42,0.07,101.63
+/,7,919.23,1000.0,858.66,1000.0,137.93,0.05,-80.77
+Nk,189,936.63,1000.0,803.0,1107.78,171.86,1.44,-63.37
+Asistent u nastavi,7,1088.24,997.89,832.69,1331.94,414.24,0.05,90.35
+Automehaničar,27,1011.28,994.26,897.22,1103.1,154.48,0.21,17.02
+Hemijski tehničar,11,1007.76,971.52,971.52,1097.69,192.84,0.08,36.24
+Tekstilni tehničar,10,960.03,971.52,717.32,1068.95,283.51,0.08,-11.49
+Frizer,5,934.52,971.52,757.79,1077.78,169.08,0.04,-37.0
+Finansijski tehničar,5,1039.48,971.52,971.52,1241.01,239.61,0.04,67.96
+Stenodaktilograf,5,1088.68,971.52,971.52,1116.84,191.38,0.04,117.16
+Veterinarski tehničar,7,1023.27,971.52,883.83,1107.78,213.67,0.05,51.75
+Poljoprivredni tehničar,13,1068.32,971.52,971.52,1107.78,217.44,0.1,96.8
+Profesor religijske pedagogije,6,1075.0,970.7,833.12,1136.99,387.57,0.05,104.3
+Bachelor specijalne edukacije i rehabilitacije,37,1176.02,969.5,832.69,1539.06,411.01,0.28,206.52
+Profesor njemačkog jezika i kniževnosti,9,1060.89,961.91,872.8,1373.89,349.54,0.07,98.98
+Bravar,113,950.54,957.0,818.05,1055.43,132.58,0.86,-6.46
+Šum.tehničar,28,971.71,956.82,907.5,971.43,114.92,0.21,14.89
+Trgovac,12,912.45,954.0,735.98,1085.28,195.24,0.09,-41.55
+Stolar,15,948.62,946.67,810.52,1092.78,151.06,0.11,1.95
+Nastavnik tehničkog obrazovanja,7,1101.31,936.41,893.37,1422.42,376.1,0.05,164.9
+Profesor historije-geografije,6,1016.36,926.82,814.05,1233.36,349.94,0.05,89.54
+Kv bravar,11,906.29,903.46,757.79,971.52,157.98,0.08,2.83
+Zavarivač,24,935.9,903.46,816.94,1077.78,171.21,0.18,32.44
+Kv,5,945.25,903.0,830.82,903.46,250.41,0.04,42.25
+Bachelor finansija i računovodstva,7,1200.02,898.99,898.99,1594.03,422.57,0.05,301.03
+Diplomirani defektolog - oligofrenolog,7,1103.22,898.99,885.9,1219.03,394.45,0.05,204.23
+Bachelor tjelesnog odgoja i sporta,19,1060.3,897.27,602.57,1525.07,472.66,0.14,163.03
+Profesor sociologije,13,1156.04,878.65,731.05,1631.4,577.12,0.1,277.39
+Dipl. medicinska sestra tehničar,8,1128.41,847.06,668.02,1797.9,564.39,0.06,281.36
+Mašinski oblikovač drveta,6,848.46,843.62,807.09,885.53,49.18,0.05,4.85
+Higijeničar,15,917.06,838.0,738.68,1151.67,206.08,0.11,79.06
+Magistar teologije,7,1124.65,831.26,728.38,1585.0,506.68,0.05,293.39
+Moler,8,884.02,830.62,757.79,1024.71,144.1,0.06,53.39
+Osnovna škola,240,853.36,830.28,717.32,1000.0,160.37,1.82,23.08
+Tehničar finalne obrade drveta,12,970.26,818.05,814.4,1085.28,247.74,0.09,152.21
+Bez zanimanja,28,813.74,813.58,717.0,842.06,135.86,0.21,0.16
+Bez zanimanja (osnovna škola),18,852.15,813.58,813.58,854.26,96.58,0.14,38.57
+Osnovno obrazovanje,33,901.49,803.0,753.19,930.95,218.99,0.25,98.49
+Doktor medicinskih nauka,23,2096.39,789.21,789.21,3638.41,1559.79,0.17,1307.18
+Diplomirani inženjer poljoprivrede,6,1094.66,770.68,711.84,1358.8,644.4,0.05,323.97
+Prof.engleskog jezika,5,932.78,769.53,598.81,981.15,483.13,0.04,163.25
+Dipl. pedagog- psiholog,5,1090.15,769.53,603.03,1745.61,628.37,0.04,320.62
+Završena osnovna škola,8,792.21,765.46,717.32,813.59,106.38,0.06,26.75
+Nastavnik fizike,6,903.81,764.1,668.0,1107.98,377.21,0.05,139.71
+Sss,12,844.39,760.36,717.32,1000.0,142.98,0.09,84.03
+Kv kuhar,10,758.05,757.79,757.79,757.79,0.81,0.08,0.26
+Nastavnik muzičke kulture,9,985.63,750.0,654.66,1390.59,427.25,0.07,235.63
+Nastavnik muzičkog odgoja,17,1016.18,749.71,688.83,1390.78,439.76,0.13,266.47
+Profesor francuskog jezika i književnosti,5,1092.36,742.0,734.9,1539.0,535.12,0.04,350.36
+Konfekcionar tekstila,6,804.22,723.86,717.32,811.1,154.72,0.05,80.36
+Nk/završena osnovna škola bez zanimanja,6,717.32,717.32,717.32,717.32,0.0,0.05,0.0
+Bez zvanja,8,737.78,717.32,717.32,728.08,43.2,0.06,20.46
+Oš,6,717.32,717.32,717.32,717.32,0.0,0.05,0.0
+Završena osnovna škola (bez zanimanja),6,717.32,717.32,717.32,717.32,0.0,0.05,0.0
+Higijeničar stambenog i poslovnog prostora,7,723.47,717.32,717.32,717.32,16.26,0.05,6.15
+Obućar iii st,5,728.29,708.63,708.63,757.79,26.93,0.04,19.66
+Nk radnik,186,787.91,708.63,708.63,810.94,141.61,1.41,79.28
+Spremačica,29,708.63,708.63,708.63,708.63,0.0,0.22,0.0
+Pk radnik,28,737.14,708.63,708.63,708.63,104.68,0.21,28.51
+Servirka,33,708.63,708.63,708.63,708.63,0.0,0.25,0.0
+Metalostrugar,10,815.87,690.08,662.84,968.06,195.18,0.08,125.79
+Profesor muzičke kulture,10,876.17,580.22,544.57,1306.24,522.76,0.08,295.95

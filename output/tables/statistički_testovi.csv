@@ -1,0 +1,6 @@
+Test,Šta se provjerava,Rezultat,Tumačenje
+Kruskal-Wallis,Razlikuju li se plate između nivoa stručne spreme?,"H = 5.179, p < 0,001, ε² = 0,39",Razlike u platama između nivoa stručne spreme su statistički značajne; efekat je veliki (grupa objašnjava oko 39% razlika u platama).
+Kruskal-Wallis,Razlikuju li se plate između sektora?,"H = 1.465, p < 0,001, ε² = 0,11",Razlike u platama između sektora su statistički značajne; efekat je srednji (grupa objašnjava oko 11% razlika u platama).
+Kruskal-Wallis,Razlikuju li se plate između grupa radnih mjesta?,"H = 5.746, p < 0,001, ε² = 0,44",Razlike u platama između grupa radnih mjesta su statistički značajne; efekat je veliki (grupa objašnjava oko 44% razlika u platama).
+Mann-Whitney U,Imaju li zaposleni na neodređeno i određeno različite plate?,"p < 0,001, r = 0,16","Medijan na neodređeno je 1.426 KM, a na određeno 1.312 KM. Razlika je statistički značajna, ali je efekat mali."
+Spearmanova korelacija,Je li plata veća što je zaposleni duže u instituciji?,"ρ = 0,15, p < 0,001",Veza je slaba i pozitivna: duži rad u instituciji tek neznatno prati veću platu.
