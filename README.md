@@ -2,7 +2,7 @@
 
 ## Interaktivna web aplikacija (Live Demo)
 
-**[Otvori interaktivni Streamlit dashboard]([https://TVOJ-LINK.streamlit.app](https://8dgdzkqotviz4c2vvcfnfb.streamlit.app/))**
+**[Otvori interaktivni Streamlit dashboard]((https://8dgdzkqotviz4c2vvcfnfb.streamlit.app/))**
 
 Aplikacija je javno dostupna u pregledniku i prikazuje rezultate analize nad podacima preuzetim **19. 11. 2026.** (omogućava filtriranje po sektoru, gradu, stručnoj spremi, vrsti ugovora i pragu nepune norme, uz ključne pokazatelje, grafikone i statističke testove). Za preuzimanje novijeg stanja registra lokalno se koristi `python main.py --osvjezi`.
 
