@@ -94,7 +94,12 @@ _KEY = iter(range(10_000))
 
 def pc(target, fig):
     """plotly_chart s jedinstvenim ključem (izbjegava duplikat ID-a kad dva grafa imaju iste podatke)."""
-    target.plotly_chart(fig, width="stretch", key=f"chart{next(_KEY)}", config={"displayModeBar": False})
+    # zumiranje i pomjeranje isključeno (nema dugmeta za reset); hover s vrijednostima ostaje
+    fig.update_xaxes(fixedrange=True)
+    fig.update_yaxes(fixedrange=True)
+    fig.update_layout(dragmode=False)
+    target.plotly_chart(fig, width="stretch", key=f"chart{next(_KEY)}",
+                        config={"displayModeBar": False, "scrollZoom": False, "doubleClick": False})
 
 
 def tabela(target, t: pd.DataFrame, visina=None):
@@ -162,20 +167,20 @@ df_svi = podaci()
 
 # ------------------------------------------------------------------ filteri
 with st.sidebar:
-    st.markdown("### 🔎 Filteri")
+    st.markdown("### Filteri")
     sektori = st.multiselect("Sektor", SEKTOR_RED, placeholder="Svi sektori")
     gradovi = st.multiselect("Grad (sjedište institucije)", sorted(df_svi["grad"].unique()), placeholder="Svi gradovi")
     spreme = st.multiselect("Stručna sprema", SPREMA_RED, placeholder="Svi nivoi")
     grupe = st.multiselect("Vrsta posla", sorted(df_svi["grupa_radnog_mjesta"].unique()), placeholder="Sve vrste")
     ugovori = st.multiselect("Vrsta ugovora", ["Neodređeno", "Određeno"], placeholder="Obje")
     st.markdown("---")
-    st.markdown("### ⚙️ Postavke analize")
+    st.markdown("### Postavke analize")
     prag = st.slider("Minimalna plata za puno radno vrijeme (KM)", 0, 1000, int(MIN_PLATA_PUNO_RV), 50,
                      help="Plate ispod praga uglavnom su nepuna norma (npr. nastavnici s nekoliko časova) i ne ulaze u analizu.")
     samo_aktivni = st.checkbox("Samo aktivni radni odnosi", True,
                                help="Isključuje zaposlene kojima je radni odnos već prestao.")
     st.markdown("---")
-    st.caption(f"🔒 Imena zaposlenih nisu preuzeta. Grupe s manje od {A.MIN_N} zaposlenih se ne prikazuju.")
+    st.caption(f"Imena zaposlenih nisu preuzeta. Grupe s manje od {A.MIN_N} zaposlenih se ne prikazuju.")
 
 d = df_svi[(df_svi["plata"] >= max(prag, 0.01))]
 if samo_aktivni:
@@ -204,8 +209,8 @@ kpi(c[3], "Srednjih 50%", f"{br(o['Q1 (25%)'])}–{br(o['Q3 (75%)'])}", "raspon 
 kpi(c[4], "Gini koeficijent", br(o["Gini koeficijent"], 2), "0 = jednake plate, 1 = maks. nejednakost")
 st.write("")
 
-tabs = st.tabs(["📈 Raspodjela", "🎓 Stručna sprema", "🏛️ Sektori i institucije", "💼 Radna mjesta i zvanja",
-                "⏳ Staž i ugovor", "🧪 Statistički testovi", "📘 Metodologija"])
+tabs = st.tabs(["Raspodjela", "Stručna sprema", "Sektori i institucije", "Radna mjesta i zvanja",
+                "Staž i ugovor", "Statistički testovi", "Metodologija"])
 
 # ------------------------------------------------------------------ 1 Raspodjela
 with tabs[0]:
@@ -224,7 +229,7 @@ with tabs[0]:
          f"brojem zaposlenih. Polovina zaposlenih ima platu između <b>{km(o['Q1 (25%)'])}</b> i <b>{km(o['Q3 (75%)'])}</b>. "
          f"Plata na granici 10% najplaćenijih je <b>{p9010}×</b> veća od plate na granici 10% najslabije plaćenih. "
          "Vrhovi oko ~1.050 KM i ~1.550 KM su tipične plate za SSS i VSS.")
-    with st.expander("📋 Tabela: opšta statistika"):
+    with st.expander("Tabela: opšta statistika"):
         op = pd.DataFrame({"Vrijednost": A.opis(d["plata"])}).round(2)
         op["Šta znači"] = [A.POJMOVI.get(k, A.POJMOVI.get("Min / Max", "")) if k not in {"Min", "Max"} else A.POJMOVI["Min / Max"]
                            for k in op.index]
@@ -266,7 +271,7 @@ with tabs[2]:
     pc(st, bar_medijan(ts_))
     info(OBJ_BAR + " Kad je prosjek mnogo desno od medijana (npr. zdravstvo, Univerzitet), mali broj visokih plata "
                    "(ljekari specijalisti, profesori) podiže prosjek.")
-    with st.expander("📋 Tabela: sektori"):
+    with st.expander("Tabela: sektori"):
         tabela(st, ts_)
 
     st.subheader("Stručna sprema × sektor (medijan plate)")
@@ -291,7 +296,7 @@ with tabs[2]:
     pc(k2, bar_medijan(ti.tail(15)))
     info(OBJ_BAR + f" Prikazano je po 15 institucija s najvišim i najnižim medijanom, od {len(ti)} institucija koje "
                    f"imaju najmanje {min_inst} zaposlenih. Sve su u tabeli ispod.")
-    with st.expander(f"📋 Sve institucije ({len(ti)})"):
+    with st.expander(f"Sve institucije ({len(ti)})"):
         tabela(st, ti)
 
     st.subheader("Detalji jedne institucije")
@@ -332,7 +337,7 @@ with tabs[3]:
          "mnogo načina (npr. „Nastavnik engleskog jezika“, „Prof. engleskog jezika“, „Nast.engleskog jezika“). "
          f"Zato su nazivi grupisani u {len(tg)} vrsta posla, čime je obuhvaćeno <b>{br(pokr, 1)}%</b> zaposlenih. "
          + OBJ_BAR, naslov="ZAŠTO GRUPE?")
-    with st.expander("📋 Tabela: vrste posla"):
+    with st.expander("Tabela: vrste posla"):
         tabela(st, tg)
 
     st.subheader("Pojedinačna radna mjesta")
@@ -354,7 +359,7 @@ with tabs[3]:
              f"Većina od {br(n_naziva)} naziva ima samo 1–2 osobe, pa se pojedinačno ne prikazuje "
              f"(premalo podataka i zaštita privatnosti). Povećaj broj prikazanih, smanji minimum ili koristi "
              "pretragu – ili pogledaj vrste posla iznad.", naslov="ZAŠTO NISU SVA RADNA MJESTA?")
-        with st.expander(f"📋 Sva radna mjesta s najmanje {A.MIN_N} zaposlenih"):
+        with st.expander(f"Sva radna mjesta s najmanje {A.MIN_N} zaposlenih"):
             sve = A.po_grupi(dd, "radno_mjesto")
             sve.insert(0, "Vrsta posla", dd.groupby("radno_mjesto")["grupa_radnog_mjesta"].first().reindex(sve.index))
             tabela(st, sve)
@@ -397,7 +402,7 @@ with tabs[4]:
          f"srednjih 50% zaposlenih. Spearmanova korelacija je <b>ρ = {br(rho, 2)}</b> – veza je slaba: dužina rada "
          "malo utiče na osnovnu platu (minuli rad se isplaćuje kao dodatak i nije dio osnovne plate). "
          "Računa se rad u ovoj instituciji, ne ukupan radni staž.")
-    with st.expander("📋 Tabela: godine u instituciji"):
+    with st.expander("Tabela: godine u instituciji"):
         tabela(st, ts)
 
     st.subheader("Vrsta ugovora")
@@ -443,14 +448,14 @@ with tabs[5]:
              f"{rf['ugovor'].lower()}). Npr. „sprema: VSS +57%“ znači oko 57% veću platu od zaposlenog sa SSS u istom "
              f"sektoru i s istom vrstom ugovora. Svaka dodatna godina u instituciji donosi {br(god, 2)}%. "
              "Pređi mišem preko stubića za tumačenje.")
-        with st.expander("📋 Tabela regresije s tumačenjem"):
+        with st.expander("Tabela regresije s tumačenjem"):
             st.dataframe(koef, width="stretch", column_config={
                 "Tumačenje": st.column_config.TextColumn(width="large"),
                 "Efekat (%)": st.column_config.NumberColumn(format="%+.1f %%"),
                 "Koeficijent (log)": st.column_config.NumberColumn(format="%.4f"),
                 "p": st.column_config.NumberColumn(format="%.4f")})
 
-    with st.expander("📘 Rječnik pojmova", expanded=False):
+    with st.expander("Rječnik pojmova", expanded=False):
         st.dataframe(pd.DataFrame({"Šta znači": A.POJMOVI}), width="stretch",
                      column_config={"Šta znači": st.column_config.TextColumn(width="large")})
 
